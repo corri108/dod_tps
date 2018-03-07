@@ -1,0 +1,1428 @@
+﻿Log file open, 03/04/18 14:28:18
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DoDTPS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-1913119332) SRandInit(-1913119332).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.187689
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.03.04-22.28.19:878][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.04-22.28.19:878][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.03.04-22.28.19:901][  0]LogInit: Computer: DESKTOP-BM3DS5T
+[2018.03.04-22.28.19:901][  0]LogInit: User: socce
+[2018.03.04-22.28.19:901][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.03.04-22.28.19:901][  0]LogInit: High frequency timer resolution =2.742185 MHz
+[2018.03.04-22.28.19:901][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.03.04-22.28.19:901][  0]LogMemory: Platform Memory Stats for Windows
+[2018.03.04-22.28.19:901][  0]LogMemory: Process Physical Memory: 280.26 MB used, 280.26 MB peak
+[2018.03.04-22.28.19:901][  0]LogMemory: Process Virtual Memory: 276.15 MB used, 276.15 MB peak
+[2018.03.04-22.28.19:901][  0]LogMemory: Physical Memory: 3632.79 MB used,  12634.82 MB free, 16267.61 MB total
+[2018.03.04-22.28.19:901][  0]LogMemory: Virtual Memory: 736.10 MB used,  12634.82 MB free, 134217728.00 MB total
+[2018.03.04-22.28.20:067][  0]LogInit: Using OS detected language (en-US).
+[2018.03.04-22.28.20:067][  0]LogInit: Using OS detected locale (en-US).
+[2018.03.04-22.28.20:070][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.03.04-22.28.20:503][  0]LogInit: Setting process to per monitor DPI aware
+[2018.03.04-22.28.20:772][  0]LogD3D11RHI: D3D11 adapters:
+[2018.03.04-22.28.20:809][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.03.04-22.28.20:809][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.03.04-22.28.20:819][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.03.04-22.28.20:819][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.03.04-22.28.20:821][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.03.04-22.28.20:821][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.03.04-22.28.20:821][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.03.04-22.28.20:829][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.03.04-22.28.20:829][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.03.04-22.28.20:829][  0]LogWindows: EnumDisplayDevices:
+[2018.03.04-22.28.20:829][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.03.04-22.28.20:829][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.03.04-22.28.20:829][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.03.04-22.28.20:829][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.03.04-22.28.20:829][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.03.04-22.28.20:829][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.03.04-22.28.20:829][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.03.04-22.28.20:830][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.03.04-22.28.20:830][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.03.04-22.28.20:830][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.03.04-22.28.20:830][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.03.04-22.28.20:830][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.03.04-22.28.20:855][  0]LogD3D11RHI: Async texture creation enabled
+[2018.03.04-22.28.20:872][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.03.04-22.28.20:872][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Intermediate/Shaders/WorkingDirectory/1416/).
+[2018.03.04-22.28.20:873][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/socce/AppData/Local/Temp/UnrealShaderWorkingDir/411C07AD4D831D3CD83459BCCA6AA7F0/'.
+[2018.03.04-22.28.20:873][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.03.04-22.28.21:769][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.03.04-22.28.21:821][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.03.04-22.28.21:874][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.03.04-22.28.21:929][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.03.04-22.28.21:993][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.03.04-22.28.22:046][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.03.04-22.28.22:102][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.03.04-22.28.22:157][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.03.04-22.28.22:209][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.03.04-22.28.22:259][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.03.04-22.28.22:314][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.03.04-22.28.22:364][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.03.04-22.28.22:415][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.03.04-22.28.22:465][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.03.04-22.28.22:565][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.03.04-22.28.22:565][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.03.04-22.28.22:622][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.03.04-22.28.22:661][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.03.04-22.28.22:759][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.03.04-22.28.22:788][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.03.04-22.28.22:848][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.03.04-22.28.22:906][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.03.04-22.28.22:964][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.03.04-22.28.23:022][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.03.04-22.28.23:023][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.03.04-22.28.23:493][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.03.04-22.28.23:567][  0]LogDerivedDataCache: Loaded boot cache 0.07s 78MB C:/Users/socce/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.04-22.28.23:567][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/socce/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.03.04-22.28.23:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.03.04-22.28.23:567][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.03.04-22.28.23:567][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.03.04-22.28.23:567][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.03.04-22.28.23:582][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.03.04-22.28.23:595][  0]LogDerivedDataCache: Using Local data cache path C:/Users/socce/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.03.04-22.28.23:605][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.03.04-22.28.23:606][  0]LogSlate: Using Freetype 2.6.0
+[2018.03.04-22.28.23:607][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.04-22.28.23:607][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.03.04-22.28.23:972][  0]LogInit: Selected Device Profile: [Windows]
+[2018.03.04-22.28.24:333][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.03.04-22.28.24:375][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.03.04-22.28.24:375][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.03.04-22.28.24:375][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.03.04-22.28.24:375][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.03.04-22.28.24:375][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.03.04-22.28.24:401][  0]LogNetVersion: DoDTPS , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2034490513)
+[2018.03.04-22.28.24:572][  0]LogAssetRegistry: FAssetRegistry took 0.0264 seconds to start up
+[2018.03.04-22.28.25:124][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.093431 seconds
+[2018.03.04-22.28.25:130][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.03.04-22.28.25:130][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.03.04-22.28.25:130][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.03.04-22.28.25:185][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.03.04-22.28.27:925][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.03.04-22.28.27:967][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.03.04-22.28.28:835][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.03.04-22.28.29:268][  0]SourceControl: Source control is disabled
+[2018.03.04-22.28.29:269][  0]SourceControl: Source control is disabled
+[2018.03.04-22.28.29:321][  0]SourceControl: Source control is disabled
+[2018.03.04-22.28.29:374][  0]SourceControl: Source control is disabled
+[2018.03.04-22.28.30:197][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.03.04-22.28.30:474][  0]LogOcInput: OculusInput pre-init called
+[2018.03.04-22.28.30:775][  0]LogEngine: Initializing Engine...
+[2018.03.04-22.28.30:778][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.03.04-22.28.30:997][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.03.04-22.28.30:998][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.03.04-22.28.31:136][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.04-22.28.31:156][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-22.28.31:215][  0]LogInit: FAudioDevice initialized.
+[2018.03.04-22.28.31:308][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/socce/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.03.04-22.28.31:322][  0]LogInit: Texture streaming: Enabled
+[2018.03.04-22.28.31:428][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.03.04-22.28.31:564][  0]LogInit: Transaction tracking system initialized
+[2018.03.04-22.28.31:901][  0]BlueprintLog: New page: Editor Load
+[2018.03.04-22.28.32:865][  0]LocalizationService: Localization service is disabled
+[2018.03.04-22.28.33:521][  0]LogLinker: Warning: Can't find file '/Game/GameBlueprints/ThirdPersonOverview'
+[2018.03.04-22.28.33:522][  0]LogLinker: Warning: Can't find file '/Game/GameBlueprints/ThirdPersonOverview'
+[2018.03.04-22.28.33:522][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/GameBlueprints/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.03.04-22.28.33:753][  0]LogConsoleResponse: Display: 
+[2018.03.04-22.28.33:952][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.03.04-22.28.33:952][  0]LogCook: Display: Mobile HDR setting 1
+[2018.03.04-22.28.33:952][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.03.04-22.28.35:140][  0]LogFileCache: Scanning file cache for directory 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Content/' took 0.05s
+[2018.03.04-22.28.35:190][  0]SourceControl: Source control is disabled
+[2018.03.04-22.28.35:190][  0]Cmd: MAP LOAD FILE="../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.04-22.28.35:221][  0]LogSlate: Took 0.000291 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.04-22.28.35:252][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.04-22.28.36:710][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.04-22.28.36:712][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.04-22.28.36:721][  0]LightingResults: New page: Lighting Build
+[2018.03.04-22.28.36:766][  0]MapCheck: New page: Map Check
+[2018.03.04-22.28.36:767][  0]LightingResults: New page: Lighting Build
+[2018.03.04-22.28.36:780][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.03.04-22.28.36:782][  0]LoadErrors: New page: New Map
+[2018.03.04-22.28.36:880][  0]LogCollectionManager: Loaded 0 collections in 0.001452 seconds
+[2018.03.04-22.28.36:987][  0]LogFileCache: Scanning file cache for directory 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Saved/Collections/' took 0.01s
+[2018.03.04-22.28.36:987][  0]LogFileCache: Scanning file cache for directory 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Content/Developers/socce/Collections/' took 0.01s
+[2018.03.04-22.28.36:987][  0]LogFileCache: Scanning file cache for directory 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Content/Collections/' took 0.01s
+[2018.03.04-22.28.36:987][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.03.04-22.28.36:998][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2372 classes and 524 folders.
+[2018.03.04-22.28.37:072][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.04-22.28.37:484][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.03.04-22.28.37:619][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.04-22.28.37:785][  0]LogSlate: Took 0.006585 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.03.04-22.28.37:786][  0]LogSlate: Took 0.000145 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.03.04-22.28.37:940][  0]LogRenderer: Reallocating scene render targets to support 896x528 Format 9 NumSamples 1 (Frame:1).
+[2018.03.04-22.28.38:099][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.04-22.28.38:099][  0]LogLoad: (Engine Initialization) Total time: 21.13 seconds
+[2018.03.04-22.28.38:099][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.03.04-22.28.38:099][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.03.04-22.28.38:142][  0]LogContentStreaming: Texture pool size now 800 MB
+[2018.03.04-22.28.38:163][  0]LogSlate: Took 0.004930 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.04-22.28.38:198][  1]LogAssetRegistry: Asset discovery search completed in 13.6476 seconds
+[2018.03.04-22.28.38:201][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.03.04-22.28.38:201][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2018.03.04-22.28.41:946][224]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.03.04-22.28.43:046][224]LogSlate: Took 0.000155 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.03.04-22.28.45:028][224]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.28.45:094][224]Cmd: MAP LOAD FILE="../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.03.04-22.28.45:094][224]LightingResults: New page: Lighting Build
+[2018.03.04-22.28.45:095][224]LoadErrors: New page: Loading map: TestMap.umap
+[2018.03.04-22.28.45:095][224]MapCheck: New page: Map Check
+[2018.03.04-22.28.45:095][224]LightingResults: New page: Lighting Build
+[2018.03.04-22.28.45:203][224]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.03.04-22.28.45:248][224]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.03.04-22.28.45:324][224]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 75.614ms to complete.
+[2018.03.04-22.28.45:325][224]LogFileHelpers: Loading map 'TestMap' took 0.231
+[2018.03.04-22.30.15:758][590]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.04-22.30.15:854][590]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.30.15:855][590]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.04-22.30.15:857][590]PIE: New page: PIE session: TestMap (Mar 4, 2018, 6:30:15 AM)
+[2018.03.04-22.30.15:864][590]LogPlayLevel: Creating play world package: /Game/GameBlueprints/Maps/UEDPIE_1_TestMap
+[2018.03.04-22.30.15:892][590]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028469s)
+[2018.03.04-22.30.15:893][590]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.30.15:893][590]LogPlayLevel: PIE: World Init took: (0.000866s)
+[2018.03.04-22.30.15:894][590]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameBlueprints/Maps/TestMap.TestMap to /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap (0.029758s)
+[2018.03.04-22.30.15:917][590]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-22.30.15:937][590]LogInit: FAudioDevice initialized.
+[2018.03.04-22.30.16:046][590]LogLoad: Game class is 'ThirdPersonGamemode_C'
+[2018.03.04-22.30.16:058][590]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap up for play (max tick rate 0) at 2018.03.04-14.30.16
+[2018.03.04-22.30.16:058][590]LogWorld: Bringing up level for play took: 0.010099
+[2018.03.04-22.30.16:103][590]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.03.04-22.30.16:103][590]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.30.16:104][590]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.03.04-22.30.16:104][590]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.30.16:104][590]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.04-22.30.16:108][590]LogInit: WinSock: I am DESKTOP-BM3DS5T (10.0.1.14:0)
+[2018.03.04-22.30.16:108][590]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.30.16:109][590]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.03.04-22.30.16:117][590]PIE: Play in editor start time for /Game/GameBlueprints/Maps/UEDPIE_1_TestMap -0.295
+[2018.03.04-22.30.16:119][590]PIE: New page: PIE session: TestMap (Mar 4, 2018, 6:30:16 AM)
+[2018.03.04-22.30.16:199][590]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.04-22.30.16:199][590]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.30.16:199][590]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2018.03.04-22.30.16:199][590]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.04-22.30.16:199][590]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.04-22.30.16:200][590]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.30.16:207][590]LogNet: Game client on port 17777, rate 10000
+[2018.03.04-22.30.16:211][590]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -0.201
+[2018.03.04-22.30.16:222][590]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.30.16:223][590]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51476
+[2018.03.04-22.30.16:223][590]LogHandshake: SendConnectChallenge. Timestamp: 0.008334, Cookie: 103098129179185084198178082072160040205229098062024162186208
+[2018.03.04-22.30.16:258][590]LogHandshake: SendChallengeResponse. Timestamp: 0.008334, Cookie: 103098129179185084198178082072160040205229098062024162186208
+[2018.03.04-22.30.16:347][591]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:51476
+[2018.03.04-22.30.16:347][591]LogHandshake: SendChallengeAck. InCookie: 103098129179185084198178082072160040205229098062024162186208
+[2018.03.04-22.30.16:347][591]LogNet: Server accepting post-challenge connection from: 127.0.0.1:51476
+[2018.03.04-22.30.16:347][591]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.30.16:347][591]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 03/04/18 14:30:16, [UNetConnection] RemoteAddr: 127.0.0.1:51476, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.04-22.30.16:347][591]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:51476, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.04-22.30.16:349][591]LogNetVersion: DoDTPS 1.0.0.0, NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3142462073)
+[2018.03.04-22.30.16:349][591]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.04-22.30.16:367][592]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap: Accepted
+[2018.03.04-22.30.16:367][592]LogNet: Remote platform little endian=1
+[2018.03.04-22.30.16:367][592]LogNet: This platform little endian=1
+[2018.03.04-22.30.16:377][593]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2018.03.04-22.30.16:379][593]LogNet: Welcomed by server (Level: /Game/GameBlueprints/Maps/UEDPIE_1_TestMap, Game: /Game/GameBlueprints/Blueprints/ThirdPersonGameMode.ThirdPersonGamemode_C)
+[2018.03.04-22.30.16:379][593]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameBlueprints/Maps/UEDPIE_1_TestMap?game=/Game/GameBlueprints/Blueprints/ThirdPersonGameMode.ThirdPersonGamemode_C
+[2018.03.04-22.30.16:411][593]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.30.16:411][593]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.30.16:418][593]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_2_TestMap.TestMap up for play (max tick rate 0) at 2018.03.04-14.30.16
+[2018.03.04-22.30.16:419][593]LogWorld: Bringing up level for play took: 0.006051
+[2018.03.04-22.30.16:419][593]LogLoad: Took 0.039900 seconds to LoadMap(/Game/GameBlueprints/Maps/UEDPIE_1_TestMap)
+[2018.03.04-22.30.16:434][594]LogNet: Client netspeed is 10000
+[2018.03.04-22.30.16:434][594]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2018.03.04-22.30.16:437][594]LogNet: Join succeeded: 257
+[2018.03.04-22.30.20:352][938]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 1
+[2018.03.04-22.30.21:073][  3]LogBlueprintUserMessages: [PlayerAnimBP_C_0] Server: Swapping montage occurred.
+[2018.03.04-22.30.21:073][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: We have weapon(s)!
+[2018.03.04-22.30.21:074][  3]LogBlueprintUserMessages: [PlayerAnimBP_C_0] Client 1: Swapping montage occurred.
+[2018.03.04-22.30.21:074][  3]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: We have weapon(s)!
+[2018.03.04-22.30.21:081][  3]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_167. Function ServerEquipWeapon will not be processed.
+[2018.03.04-22.30.27:798][616]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: crouch
+[2018.03.04-22.30.28:541][683]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=150.00 Y=-22.00 Z=0.00 Location: X=13.51 Y=3807.43 Z=536.14 Normal: X=-0.06 Y=0.76 Z=-0.65 PenetrationDepth:0.196 Actor:WallDoorStrechedGrey_size_x1_y5_z7_1511 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.03.04-22.30.28:551][684]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=140.98 Y=-56.95 Z=0.00 Location: X=13.48 Y=3807.43 Z=536.14 Normal: X=-0.06 Y=0.76 Z=-0.65 PenetrationDepth:0.204 Actor:WallDoorStrechedGrey_size_x1_y5_z7_1511 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2018.03.04-22.30.29:550][774]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-15.00 Y=-187.00 Z=0.00 Location: X=13.48 Y=3807.43 Z=536.14 Normal: X=-0.06 Y=0.76 Z=-0.65 PenetrationDepth:0.198 Actor:WallDoorStrechedGrey_size_x1_y5_z7_1511 Component:StaticMeshComponent0 BoneName:None (67 other events since notify)
+[2018.03.04-22.30.29:560][775]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-15.28 Y=-186.37 Z=0.00 Location: X=13.48 Y=3807.43 Z=536.14 Normal: X=-0.06 Y=0.76 Z=-0.65 PenetrationDepth:0.204 Actor:WallDoorStrechedGrey_size_x1_y5_z7_1511 Component:StaticMeshComponent0 BoneName:None (90 other events since notify)
+[2018.03.04-22.30.30:553][864]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-70.00 Y=-144.00 Z=0.00 Location: X=12.50 Y=3807.36 Z=536.14 Normal: X=-0.06 Y=0.76 Z=-0.65 PenetrationDepth:0.192 Actor:WallDoorStrechedGrey_size_x1_y5_z7_1511 Component:StaticMeshComponent0 BoneName:None (76 other events since notify)
+[2018.03.04-22.30.30:564][865]LogCharacterMovement: ThirdPersonCharacter_167 is stuck and failed to move! Velocity: X=-37.11 Y=-155.62 Z=0.00 Location: X=13.48 Y=3807.43 Z=536.14 Normal: X=-0.06 Y=0.76 Z=-0.65 PenetrationDepth:0.204 Actor:WallDoorStrechedGrey_size_x1_y5_z7_1511 Component:StaticMeshComponent0 BoneName:None (88 other events since notify)
+[2018.03.04-22.30.31:559][954]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: stop crouch
+[2018.03.04-22.30.36:100][250]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: crouch
+[2018.03.04-22.30.39:051][427]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: stop crouch
+[2018.03.04-22.30.42:935][660]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: crouch
+[2018.03.04-22.30.46:020][845]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 28
+[2018.03.04-22.30.46:027][845]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.30.46:030][845]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.30.46:398][867]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 27
+[2018.03.04-22.30.46:399][867]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.30.46:401][867]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.30.46:770][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 26
+[2018.03.04-22.30.46:771][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.30.46:772][889]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.30.47:504][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 25
+[2018.03.04-22.30.47:504][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.30.47:506][933]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.30.47:687][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 24
+[2018.03.04-22.30.47:687][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.30.47:689][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.30.47:871][955]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 23
+[2018.03.04-22.30.47:871][955]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.30.47:873][955]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.30.58:619][600]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: stop crouch
+[2018.03.04-22.31.00:952][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: crouch
+[2018.03.04-22.31.03:521][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 28
+[2018.03.04-22.31.03:522][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.03:523][894]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.04:087][928]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 27
+[2018.03.04-22.31.04:087][928]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.04:089][928]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.04:304][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 26
+[2018.03.04-22.31.04:305][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.04:307][941]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.04:687][964]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 25
+[2018.03.04-22.31.04:688][964]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.04:689][964]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.04:854][974]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 24
+[2018.03.04-22.31.04:854][974]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.04:856][974]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.05:138][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 23
+[2018.03.04-22.31.05:138][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.05:140][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.05:305][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 22
+[2018.03.04-22.31.05:305][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.05:307][  1]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.13:125][451]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: 1
+[2018.03.04-22.31.13:857][495]LogBlueprintUserMessages: [PlayerAnimBP_C_1] Server: Swapping montage occurred.
+[2018.03.04-22.31.13:857][495]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: We have weapon(s)!
+[2018.03.04-22.31.13:858][495]LogBlueprintUserMessages: [PlayerAnimBP_C_1] Client 1: Swapping montage occurred.
+[2018.03.04-22.31.13:858][495]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: We have weapon(s)!
+[2018.03.04-22.31.25:940][152]LogRenderer: Reallocating scene render targets to support 896x600 Format 9 NumSamples 1 (Frame:4571).
+[2018.03.04-22.31.25:987][152]LogRenderer: Reallocating scene render targets to support 896x708 Format 9 NumSamples 1 (Frame:4572).
+[2018.03.04-22.31.26:036][152]LogRenderer: Reallocating scene render targets to support 896x724 Format 9 NumSamples 1 (Frame:4573).
+[2018.03.04-22.31.32:513][391]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 28
+[2018.03.04-22.31.32:513][391]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.32:514][391]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.36:045][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 27
+[2018.03.04-22.31.36:045][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.36:047][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.36:795][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 26
+[2018.03.04-22.31.36:795][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.36:797][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.37:095][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 25
+[2018.03.04-22.31.37:095][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.37:097][666]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.38:478][749]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 24
+[2018.03.04-22.31.38:478][749]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.38:480][749]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.38:895][774]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 23
+[2018.03.04-22.31.40:028][842]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 22
+[2018.03.04-22.31.40:028][842]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.40:030][842]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.40:628][878]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 21
+[2018.03.04-22.31.40:762][886]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 20
+[2018.03.04-22.31.40:947][897]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 19
+[2018.03.04-22.31.40:947][897]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.40:949][897]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.42:513][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 18
+[2018.03.04-22.31.42:514][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.42:515][991]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.42:697][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 17
+[2018.03.04-22.31.42:698][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.42:700][  2]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.42:880][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 16
+[2018.03.04-22.31.42:880][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.42:882][ 13]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.43:064][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 15
+[2018.03.04-22.31.43:064][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.43:066][ 24]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.43:247][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 14
+[2018.03.04-22.31.43:247][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.43:249][ 35]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.43:431][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 13
+[2018.03.04-22.31.43:431][ 46]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.31.43:433][ 46]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.31.44:980][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 12
+[2018.03.04-22.31.44:981][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.44:982][139]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.45:931][196]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 11
+[2018.03.04-22.31.45:931][196]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.31.45:933][196]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.31.47:065][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 10
+[2018.03.04-22.31.47:065][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.47:068][264]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.47:232][274]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 9
+[2018.03.04-22.31.47:232][274]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.31.47:234][274]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.31.47:382][283]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 8
+[2018.03.04-22.31.47:382][283]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.47:384][283]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.47:699][302]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 7
+[2018.03.04-22.31.47:699][302]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.31.47:701][302]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.31.47:848][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 6
+[2018.03.04-22.31.47:849][311]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.31.47:851][311]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.31.48:032][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 5
+[2018.03.04-22.31.48:032][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.48:034][322]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.48:199][332]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 4
+[2018.03.04-22.31.48:199][332]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.48:202][332]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.48:367][342]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 3
+[2018.03.04-22.31.48:367][342]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.31.48:370][342]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.31.48:550][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 2
+[2018.03.04-22.31.48:550][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.31.48:552][353]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.31.59:282][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: stop crouch
+[2018.03.04-22.32.10:267][656]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: crouch
+[2018.03.04-22.32.11:668][740]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 28
+[2018.03.04-22.32.11:670][740]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor Destructible15. Function ReplicateDamage will not be processed.
+[2018.03.04-22.32.11:986][759]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 27
+[2018.03.04-22.32.11:986][759]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.32.11:988][759]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.32.12:170][770]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 26
+[2018.03.04-22.32.12:173][770]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor Destructible15. Function ReplicateDamage will not be processed.
+[2018.03.04-22.32.12:356][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 25
+[2018.03.04-22.32.12:356][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.32.12:358][781]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.32.12:589][795]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 24
+[2018.03.04-22.32.12:589][795]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.32.12:591][795]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.32.15:072][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 23
+[2018.03.04-22.32.15:072][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.32.15:076][944]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.32.15:439][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 22
+[2018.03.04-22.32.15:439][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.32.15:441][966]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.32.15:755][985]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 21
+[2018.03.04-22.32.15:758][985]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor Destructible16. Function ReplicateDamage will not be processed.
+[2018.03.04-22.32.15:995][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 20
+[2018.03.04-22.32.15:995][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.32.15:997][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.32.16:162][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 19
+[2018.03.04-22.32.16:162][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.32.16:164][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.32.16:361][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 18
+[2018.03.04-22.32.16:361][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.32.16:364][ 21]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.32.16:778][ 46]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 17
+[2018.03.04-22.32.16:780][ 46]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor Destructible10. Function ReplicateDamage will not be processed.
+[2018.03.04-22.32.17:012][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 16
+[2018.03.04-22.32.17:012][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.32.17:014][ 60]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.32.17:196][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 15
+[2018.03.04-22.32.17:196][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.32.17:199][ 71]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.32.18:565][153]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 14
+[2018.03.04-22.32.18:568][153]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor Destructible12. Function ReplicateDamage will not be processed.
+[2018.03.04-22.32.18:864][171]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: stop crouch
+[2018.03.04-22.32.23:867][471]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.32.23:989][471]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.32.24:000][471]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51476, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.03.04-22.32.24:000][471]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:51476, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.03.04-22.32.24
+[2018.03.04-22.32.24:000][471]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:51476, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: None, Owner: None
+[2018.03.04-22.32.24:000][471]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.03.04-22.32.24:000][471]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.03.04-22.32.24
+[2018.03.04-22.32.24:000][471]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: None, Owner: None
+[2018.03.04-22.32.24:004][471]LogExit: GameNetDriver None shut down
+[2018.03.04-22.32.24:005][471]LogExit: GameNetDriver None shut down
+[2018.03.04-22.36.57:033][878]Cmd: SELECT NONE
+[2018.03.04-22.38.17:525][969]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0004 seconds. Added 7 classes and 3 folders.
+[2018.03.04-22.38.17:572][969]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.03.04-22.38.19:103][969]LogMaterial: Missing cached shader map for material 01_-_Default, compiling. 
+[2018.03.04-22.38.19:104][969]LogMaterial: Warning: C:\Users\socce\Documents\Unreal Projects\DoDTPS\Content\CharacterModels\Shoes\01_-_Default.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2018.03.04-22.38.19:104][969]LogMaterial: 	(Node TextureSample) TextureSample> Sampler type is Color, should be Linear Color for /Game/CharacterModels/Shoes/vans_01.vans_01
+[2018.03.04-22.38.19:270][969]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_2:PersistentLevel.Actor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.03.04-22.38.19:683][969]LogSlate: Took 0.006488 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.03.04-22.38.19:762][969]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.03.04-22.38.19:786][969]LogRenderer: Reallocating scene render targets to support 912x724 Format 9 NumSamples 1 (Frame:1).
+[2018.03.04-22.39.22:293][894]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.03.04-22.39.24:054][895]LogSlate: Took 0.004779 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.03.04-22.40.01:069][821]BlueprintLog: New page: Compile PlayerCharacter
+[2018.03.04-22.40.03:155][821]LogSavePackage: Save=993.57ms
+[2018.03.04-22.40.03:155][821]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/PlayerCharacter03376373478C36CFD019BE8628790038.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset'
+[2018.03.04-22.40.03:160][821]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset
+[2018.03.04-22.40.05:044][915]LogSavePackage: Save=239.53ms
+[2018.03.04-22.40.05:044][915]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/TestMapC205557B48F7FC785C2F519B1D4DDF13.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap.umap'
+[2018.03.04-22.40.05:048][915]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap.umap
+[2018.03.04-22.40.05:246][915]LogSavePackage: Save=136.86ms
+[2018.03.04-22.40.05:246][915]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/TestMap_BuiltData7061AFA9421AFB22A37F20BDDFABEA1B.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap_BuiltData.uasset'
+[2018.03.04-22.40.05:248][915]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap_BuiltData.uasset
+[2018.03.04-22.40.06:200][972]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.04-22.40.06:291][972]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.40.06:291][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.04-22.40.06:292][972]PIE: New page: PIE session: TestMap (Mar 4, 2018, 6:40:06 AM)
+[2018.03.04-22.40.06:292][972]LogPlayLevel: Creating play world package: /Game/GameBlueprints/Maps/UEDPIE_1_TestMap
+[2018.03.04-22.40.06:310][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017173s)
+[2018.03.04-22.40.06:310][972]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.40.06:311][972]LogPlayLevel: PIE: World Init took: (0.001027s)
+[2018.03.04-22.40.06:311][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameBlueprints/Maps/TestMap.TestMap to /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap (0.018575s)
+[2018.03.04-22.40.06:338][972]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-22.40.06:357][972]LogInit: FAudioDevice initialized.
+[2018.03.04-22.40.06:432][972]LogLoad: Game class is 'ThirdPersonGamemode_C'
+[2018.03.04-22.40.06:438][972]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap up for play (max tick rate 60) at 2018.03.04-14.40.06
+[2018.03.04-22.40.06:439][972]LogWorld: Bringing up level for play took: 0.005771
+[2018.03.04-22.40.06:440][972]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.40.06:440][972]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2018.03.04-22.40.06:440][972]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.40.06:440][972]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.04-22.40.06:440][972]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.40.06:440][972]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 17777
+[2018.03.04-22.40.06:445][972]PIE: Play in editor start time for /Game/GameBlueprints/Maps/UEDPIE_1_TestMap 0.033
+[2018.03.04-22.40.06:447][972]PIE: New page: PIE session: TestMap (Mar 4, 2018, 6:40:06 AM)
+[2018.03.04-22.40.06:529][972]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.04-22.40.06:530][972]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.40.06:530][972]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2018.03.04-22.40.06:530][972]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.04-22.40.06:530][972]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.04-22.40.06:531][972]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.40.06:532][972]LogNet: Game client on port 17777, rate 10000
+[2018.03.04-22.40.06:535][972]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0.123
+[2018.03.04-22.40.06:544][972]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.40.06:545][972]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61459
+[2018.03.04-22.40.06:545][972]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 097244033155032021082241129143144002104067017157073181158211
+[2018.03.04-22.40.06:548][972]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 097244033155032021082241129143144002104067017157073181158211
+[2018.03.04-22.40.06:637][973]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61459
+[2018.03.04-22.40.06:637][973]LogHandshake: SendChallengeAck. InCookie: 097244033155032021082241129143144002104067017157073181158211
+[2018.03.04-22.40.06:637][973]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61459
+[2018.03.04-22.40.06:637][973]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.40.06:637][973]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 03/04/18 14:40:06, [UNetConnection] RemoteAddr: 127.0.0.1:61459, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.04-22.40.06:637][973]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61459, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.04-22.40.06:639][973]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.04-22.40.06:654][974]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap: Accepted
+[2018.03.04-22.40.06:654][974]LogNet: Remote platform little endian=1
+[2018.03.04-22.40.06:654][974]LogNet: This platform little endian=1
+[2018.03.04-22.40.06:670][975]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2018.03.04-22.40.06:671][975]LogNet: Welcomed by server (Level: /Game/GameBlueprints/Maps/UEDPIE_1_TestMap, Game: /Game/GameBlueprints/Blueprints/ThirdPersonGameMode.ThirdPersonGamemode_C)
+[2018.03.04-22.40.06:672][975]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameBlueprints/Maps/UEDPIE_1_TestMap?game=/Game/GameBlueprints/Blueprints/ThirdPersonGameMode.ThirdPersonGamemode_C
+[2018.03.04-22.40.06:711][975]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.40.06:711][975]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.40.06:719][975]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_2_TestMap.TestMap up for play (max tick rate 60) at 2018.03.04-14.40.06
+[2018.03.04-22.40.06:719][975]LogWorld: Bringing up level for play took: 0.006669
+[2018.03.04-22.40.06:719][975]LogLoad: Took 0.047800 seconds to LoadMap(/Game/GameBlueprints/Maps/UEDPIE_1_TestMap)
+[2018.03.04-22.40.06:736][976]LogNet: Client netspeed is 10000
+[2018.03.04-22.40.06:736][976]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2018.03.04-22.40.06:738][976]LogNet: Join succeeded: 259
+[2018.03.04-22.40.14:106][344]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: 1
+[2018.03.04-22.40.14:822][387]LogBlueprintUserMessages: [PlayerAnimBP_C_1] Server: Swapping montage occurred.
+[2018.03.04-22.40.14:822][387]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: We have weapon(s)!
+[2018.03.04-22.40.14:840][388]LogBlueprintUserMessages: [PlayerAnimBP_C_1] Client 1: Swapping montage occurred.
+[2018.03.04-22.40.14:840][388]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: We have weapon(s)!
+[2018.03.04-22.40.16:272][474]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 28
+[2018.03.04-22.40.16:739][502]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 27
+[2018.03.04-22.40.17:173][528]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 26
+[2018.03.04-22.40.17:806][566]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 25
+[2018.03.04-22.40.17:806][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.40.17:816][566]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.40.19:380][660]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.40.19:499][660]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.40.19:516][660]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61459, Name: IpConnection_3, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2018.03.04-22.40.19:516][660]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61459, Name: IpConnection_3, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.03.04-22.40.19
+[2018.03.04-22.40.19:516][660]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61459, Name: IpConnection_3, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2018.03.04-22.40.19:516][660]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.03.04-22.40.19:516][660]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.03.04-22.40.19
+[2018.03.04-22.40.19:517][660]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2018.03.04-22.40.19:519][660]LogExit: GameNetDriver None shut down
+[2018.03.04-22.40.19:520][660]LogExit: GameNetDriver None shut down
+[2018.03.04-22.40.36:713][107]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.Actor_1.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.03.04-22.40.36:746][107]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_7:PersistentLevel.Actor_1.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.03.04-22.40.54:927][174]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) Already registered. Aborting.
+[2018.03.04-22.40.54:970][174]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.Actor_2.DebugSkelMeshComponent_1) - call TermArticulated first.
+[2018.03.04-22.43.46:179][671]BlueprintLog: New page: Compile PlayerCharacter
+[2018.03.04-22.43.48:231][671]LogSavePackage: Save=991.90ms
+[2018.03.04-22.43.48:231][671]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/PlayerCharacterB18EB86A475094816FDC65949889C9DA.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset'
+[2018.03.04-22.43.48:237][671]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset
+[2018.03.04-22.44.46:482][120]BlueprintLog: New page: Compile PlayerCharacter
+[2018.03.04-22.44.48:554][120]LogSavePackage: Save=975.88ms
+[2018.03.04-22.44.48:554][120]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/PlayerCharacterBC97154940F9FB421517DC80E41B3B77.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset'
+[2018.03.04-22.44.48:559][120]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset
+[2018.03.04-22.45.04:878][ 85]BlueprintLog: New page: Compile PlayerCharacter
+[2018.03.04-22.45.07:072][ 85]LogSavePackage: Save=998.19ms
+[2018.03.04-22.45.07:072][ 85]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/PlayerCharacter64A37D31428CB84B625274BAF194852A.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset'
+[2018.03.04-22.45.07:077][ 85]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset
+[2018.03.04-22.45.09:703][241]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.04-22.45.09:812][241]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.45.09:812][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.04-22.45.09:813][241]PIE: New page: PIE session: TestMap (Mar 4, 2018, 6:45:09 AM)
+[2018.03.04-22.45.09:813][241]LogPlayLevel: Creating play world package: /Game/GameBlueprints/Maps/UEDPIE_1_TestMap
+[2018.03.04-22.45.09:831][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017587s)
+[2018.03.04-22.45.09:832][241]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.45.09:832][241]LogPlayLevel: PIE: World Init took: (0.001090s)
+[2018.03.04-22.45.09:832][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameBlueprints/Maps/TestMap.TestMap to /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap (0.019071s)
+[2018.03.04-22.45.09:862][241]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-22.45.09:882][241]LogInit: FAudioDevice initialized.
+[2018.03.04-22.45.09:955][241]LogLoad: Game class is 'ThirdPersonGamemode_C'
+[2018.03.04-22.45.09:962][241]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap up for play (max tick rate 60) at 2018.03.04-14.45.09
+[2018.03.04-22.45.09:963][241]LogWorld: Bringing up level for play took: 0.006969
+[2018.03.04-22.45.09:963][241]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.45.09:963][241]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2018.03.04-22.45.09:963][241]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.45.09:964][241]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.04-22.45.09:964][241]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.45.09:964][241]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 17777
+[2018.03.04-22.45.09:967][241]PIE: Play in editor start time for /Game/GameBlueprints/Maps/UEDPIE_1_TestMap -0.445
+[2018.03.04-22.45.09:968][241]PIE: New page: PIE session: TestMap (Mar 4, 2018, 6:45:09 AM)
+[2018.03.04-22.45.10:044][241]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.04-22.45.10:044][241]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.45.10:044][241]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2018.03.04-22.45.10:044][241]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.04-22.45.10:045][241]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.04-22.45.10:045][241]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.45.10:045][241]LogNet: Game client on port 17777, rate 10000
+[2018.03.04-22.45.10:047][241]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -0.365
+[2018.03.04-22.45.10:052][241]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.45.10:053][241]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61955
+[2018.03.04-22.45.10:053][241]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 025189175098148062230159158183209008111044159148045124106140
+[2018.03.04-22.45.10:055][241]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 025189175098148062230159158183209008111044159148045124106140
+[2018.03.04-22.45.10:555][242]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:61955
+[2018.03.04-22.45.10:555][242]LogHandshake: SendChallengeAck. InCookie: 025189175098148062230159158183209008111044159148045124106140
+[2018.03.04-22.45.10:555][242]LogNet: Server accepting post-challenge connection from: 127.0.0.1:61955
+[2018.03.04-22.45.10:555][242]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.45.10:556][242]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 03/04/18 14:45:10, [UNetConnection] RemoteAddr: 127.0.0.1:61955, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.04-22.45.10:556][242]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:61955, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.04-22.45.10:556][242]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.04-22.45.10:575][243]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap: Accepted
+[2018.03.04-22.45.10:575][243]LogNet: Remote platform little endian=1
+[2018.03.04-22.45.10:575][243]LogNet: This platform little endian=1
+[2018.03.04-22.45.10:591][244]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2018.03.04-22.45.10:593][244]LogNet: Welcomed by server (Level: /Game/GameBlueprints/Maps/UEDPIE_1_TestMap, Game: /Game/GameBlueprints/Blueprints/ThirdPersonGameMode.ThirdPersonGamemode_C)
+[2018.03.04-22.45.10:594][244]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameBlueprints/Maps/UEDPIE_1_TestMap?game=/Game/GameBlueprints/Blueprints/ThirdPersonGameMode.ThirdPersonGamemode_C
+[2018.03.04-22.45.10:633][244]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.45.10:633][244]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.45.10:641][244]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_2_TestMap.TestMap up for play (max tick rate 60) at 2018.03.04-14.45.10
+[2018.03.04-22.45.10:642][244]LogWorld: Bringing up level for play took: 0.006885
+[2018.03.04-22.45.10:642][244]LogLoad: Took 0.048174 seconds to LoadMap(/Game/GameBlueprints/Maps/UEDPIE_1_TestMap)
+[2018.03.04-22.45.10:655][245]LogNet: Client netspeed is 10000
+[2018.03.04-22.45.10:656][245]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2018.03.04-22.45.10:658][245]LogNet: Join succeeded: 261
+[2018.03.04-22.45.13:531][415]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 1
+[2018.03.04-22.45.14:246][457]LogBlueprintUserMessages: [PlayerAnimBP_C_0] Server: Swapping montage occurred.
+[2018.03.04-22.45.14:246][457]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: We have weapon(s)!
+[2018.03.04-22.45.14:247][457]LogBlueprintUserMessages: [PlayerAnimBP_C_0] Client 1: Swapping montage occurred.
+[2018.03.04-22.45.14:247][457]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: We have weapon(s)!
+[2018.03.04-22.45.14:247][457]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_167. Function ServerEquipWeapon will not be processed.
+[2018.03.04-22.45.16:234][574]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 28
+[2018.03.04-22.45.16:490][589]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 27
+[2018.03.04-22.45.16:741][603]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 26
+[2018.03.04-22.45.17:212][631]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 25
+[2018.03.04-22.45.17:213][631]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.45.17:215][631]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.45.25:303][ 94]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.45.25:507][ 94]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.45.25:526][ 94]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61955, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.03.04-22.45.25:526][ 94]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:61955, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.03.04-22.45.25
+[2018.03.04-22.45.25:526][ 94]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:61955, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: None, Owner: None
+[2018.03.04-22.45.25:526][ 94]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.03.04-22.45.25:526][ 94]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.03.04-22.45.25
+[2018.03.04-22.45.25:526][ 94]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: None, Owner: None
+[2018.03.04-22.45.25:530][ 94]LogExit: GameNetDriver None shut down
+[2018.03.04-22.45.25:531][ 94]LogExit: GameNetDriver None shut down
+[2018.03.04-22.45.54:602][796]LogSavePackage: Save=237.21ms
+[2018.03.04-22.45.54:602][796]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/TestMap8A4AD34B4820DBB2799BC786A8FB54DA.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap.umap'
+[2018.03.04-22.45.54:607][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap.umap
+[2018.03.04-22.45.54:756][796]LogSavePackage: Save=100.18ms
+[2018.03.04-22.45.54:756][796]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/TestMap_BuiltData7B6C5F764C2F381CFF54E19372B2EA8C.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap_BuiltData.uasset'
+[2018.03.04-22.45.54:758][796]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap_BuiltData.uasset
+[2018.03.04-22.45.55:338][831]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.04-22.45.55:359][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.45.55:360][831]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.03.04-22.45.55:542][831]LogPlayLevel: [PlayLevel] Compiling PlayerCharacter before play...
+[2018.03.04-22.45.57:414][831]LogSavePackage: Save=970.80ms
+[2018.03.04-22.45.57:415][831]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/PlayerCharacter180C98F64E782D9D51BAD3BDBF88AE87.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset'
+[2018.03.04-22.45.57:419][831]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset
+[2018.03.04-22.45.57:446][831]LogPlayLevel: PlayLevel: Blueprint regeneration took 2086 ms (1 blueprints)
+[2018.03.04-22.45.57:448][831]PIE: New page: PIE session: TestMap (Mar 4, 2018, 6:45:57 AM)
+[2018.03.04-22.45.57:448][831]LogPlayLevel: Creating play world package: /Game/GameBlueprints/Maps/UEDPIE_1_TestMap
+[2018.03.04-22.45.57:466][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017694s)
+[2018.03.04-22.45.57:467][831]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.45.57:468][831]LogPlayLevel: PIE: World Init took: (0.001333s)
+[2018.03.04-22.45.57:468][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameBlueprints/Maps/TestMap.TestMap to /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap (0.019643s)
+[2018.03.04-22.45.57:495][831]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-22.45.57:513][831]LogInit: FAudioDevice initialized.
+[2018.03.04-22.45.57:589][831]LogLoad: Game class is 'ThirdPersonGamemode_C'
+[2018.03.04-22.45.57:595][831]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap up for play (max tick rate 60) at 2018.03.04-14.45.57
+[2018.03.04-22.45.57:595][831]LogWorld: Bringing up level for play took: 0.005523
+[2018.03.04-22.45.57:596][831]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.45.57:596][831]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2018.03.04-22.45.57:596][831]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.45.57:596][831]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.04-22.45.57:597][831]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.45.57:597][831]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 17777
+[2018.03.04-22.45.57:601][831]PIE: Play in editor start time for /Game/GameBlueprints/Maps/UEDPIE_1_TestMap -0.811
+[2018.03.04-22.45.57:603][831]PIE: New page: PIE session: TestMap (Mar 4, 2018, 6:45:57 AM)
+[2018.03.04-22.45.57:684][831]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.04-22.45.57:685][831]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.45.57:685][831]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2018.03.04-22.45.57:685][831]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.04-22.45.57:685][831]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.04-22.45.57:685][831]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.45.57:685][831]LogNet: Game client on port 17777, rate 10000
+[2018.03.04-22.45.57:690][831]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap -0.722
+[2018.03.04-22.45.57:700][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.45.57:701][831]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60354
+[2018.03.04-22.45.57:701][831]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 049148140180176143169025204209159104207156077144111222128017
+[2018.03.04-22.45.57:703][831]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 049148140180176143169025204209159104207156077144111222128017
+[2018.03.04-22.45.57:795][832]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:60354
+[2018.03.04-22.45.57:795][832]LogHandshake: SendChallengeAck. InCookie: 049148140180176143169025204209159104207156077144111222128017
+[2018.03.04-22.45.57:796][832]LogNet: Server accepting post-challenge connection from: 127.0.0.1:60354
+[2018.03.04-22.45.57:796][832]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.45.57:796][832]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 03/04/18 14:45:57, [UNetConnection] RemoteAddr: 127.0.0.1:60354, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.04-22.45.57:796][832]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:60354, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.04-22.45.57:797][832]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.04-22.45.57:812][833]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap: Accepted
+[2018.03.04-22.45.57:813][833]LogNet: Remote platform little endian=1
+[2018.03.04-22.45.57:813][833]LogNet: This platform little endian=1
+[2018.03.04-22.45.57:830][834]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2018.03.04-22.45.57:831][834]LogNet: Welcomed by server (Level: /Game/GameBlueprints/Maps/UEDPIE_1_TestMap, Game: /Game/GameBlueprints/Blueprints/ThirdPersonGameMode.ThirdPersonGamemode_C)
+[2018.03.04-22.45.57:831][834]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameBlueprints/Maps/UEDPIE_1_TestMap?game=/Game/GameBlueprints/Blueprints/ThirdPersonGameMode.ThirdPersonGamemode_C
+[2018.03.04-22.45.57:868][834]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.45.57:868][834]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.45.57:877][834]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_2_TestMap.TestMap up for play (max tick rate 60) at 2018.03.04-14.45.57
+[2018.03.04-22.45.57:877][834]LogWorld: Bringing up level for play took: 0.007693
+[2018.03.04-22.45.57:878][834]LogLoad: Took 0.045833 seconds to LoadMap(/Game/GameBlueprints/Maps/UEDPIE_1_TestMap)
+[2018.03.04-22.45.57:897][835]LogNet: Client netspeed is 10000
+[2018.03.04-22.45.57:897][835]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2018.03.04-22.45.57:900][835]LogNet: Join succeeded: 263
+[2018.03.04-22.46.15:948][774]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 1
+[2018.03.04-22.46.16:665][817]LogBlueprintUserMessages: [PlayerAnimBP_C_0] Server: Swapping montage occurred.
+[2018.03.04-22.46.16:665][817]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: We have weapon(s)!
+[2018.03.04-22.46.16:666][817]LogBlueprintUserMessages: [PlayerAnimBP_C_0] Client 1: Swapping montage occurred.
+[2018.03.04-22.46.16:666][817]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: We have weapon(s)!
+[2018.03.04-22.46.16:666][817]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_167. Function ServerEquipWeapon will not be processed.
+[2018.03.04-22.46.40:610][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 28
+[2018.03.04-22.46.40:610][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.40:612][214]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.40:793][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 27
+[2018.03.04-22.46.40:794][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.40:795][225]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.40:994][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 26
+[2018.03.04-22.46.40:994][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.40:996][237]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.41:228][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 25
+[2018.03.04-22.46.41:228][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.41:230][251]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.45:029][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 24
+[2018.03.04-22.46.45:029][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.45:030][479]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.45:246][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 23
+[2018.03.04-22.46.45:246][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.45:248][492]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.45:431][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 22
+[2018.03.04-22.46.45:431][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.45:433][503]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.45:618][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 21
+[2018.03.04-22.46.45:618][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.45:620][514]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.45:884][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 20
+[2018.03.04-22.46.45:884][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.45:886][530]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.46:068][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 19
+[2018.03.04-22.46.46:068][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.46:070][541]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.47:685][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 18
+[2018.03.04-22.46.47:685][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.47:687][638]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.47:852][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 17
+[2018.03.04-22.46.47:852][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.47:854][648]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.48:019][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 16
+[2018.03.04-22.46.48:019][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.48:020][658]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.48:168][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 15
+[2018.03.04-22.46.48:168][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.48:170][667]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.48:351][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 14
+[2018.03.04-22.46.48:352][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.48:354][678]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.53:299][936]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 28
+[2018.03.04-22.46.53:299][936]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.53:301][936]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.53:832][968]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 27
+[2018.03.04-22.46.53:832][968]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.53:834][968]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.54:317][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 26
+[2018.03.04-22.46.54:317][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.54:319][997]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.54:517][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 25
+[2018.03.04-22.46.54:518][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.54:520][  9]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.54:751][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 24
+[2018.03.04-22.46.54:751][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.46.54:753][ 23]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.46.57:785][205]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 23
+[2018.03.04-22.46.58:652][257]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 22
+[2018.03.04-22.46.58:903][272]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 21
+[2018.03.04-22.47.00:236][352]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 20
+[2018.03.04-22.47.00:236][352]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.47.00:239][352]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.47.18:854][468]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 28
+[2018.03.04-22.47.18:854][468]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.47.18:856][468]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.47.19:388][500]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 27
+[2018.03.04-22.47.19:388][500]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.47.19:390][500]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.47.19:571][511]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 26
+[2018.03.04-22.47.19:571][511]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.47.19:573][511]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.47.36:199][489]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: 1
+[2018.03.04-22.47.36:914][532]LogBlueprintUserMessages: [PlayerAnimBP_C_1] Server: Swapping montage occurred.
+[2018.03.04-22.47.36:914][532]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: We have weapon(s)!
+[2018.03.04-22.47.36:933][533]LogBlueprintUserMessages: [PlayerAnimBP_C_1] Client 1: Swapping montage occurred.
+[2018.03.04-22.47.36:933][533]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: We have weapon(s)!
+[2018.03.04-22.47.37:281][554]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 28
+[2018.03.04-22.47.37:731][581]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 27
+[2018.03.04-22.47.37:948][594]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 26
+[2018.03.04-22.47.38:247][612]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 25
+[2018.03.04-22.47.38:248][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.47.38:251][612]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.47.44:832][  7]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 24
+[2018.03.04-22.47.44:832][  7]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Cast to player failed.
+[2018.03.04-22.47.44:835][  7]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Cast to player failed.
+[2018.03.04-22.47.45:032][ 19]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 23
+[2018.03.04-22.47.45:033][ 19]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Cast to player failed.
+[2018.03.04-22.47.45:035][ 19]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Cast to player failed.
+[2018.03.04-22.47.45:199][ 29]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 22
+[2018.03.04-22.47.45:199][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.47.45:202][ 29]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.47.45:384][ 40]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 21
+[2018.03.04-22.47.45:384][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.47.45:388][ 40]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.47.45:568][ 51]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 20
+[2018.03.04-22.47.45:568][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.47.45:571][ 51]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.47.45:736][ 61]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 19
+[2018.03.04-22.47.45:737][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.47.45:740][ 61]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.47.45:920][ 72]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 18
+[2018.03.04-22.47.45:921][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.47.45:924][ 72]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.47.46:105][ 83]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 17
+[2018.03.04-22.47.46:106][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.47.46:109][ 83]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.47.46:739][121]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 16
+[2018.03.04-22.47.46:739][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.47.46:742][121]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.47.46:907][131]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 15
+[2018.03.04-22.47.46:908][131]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.47.46:911][131]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.47.47:057][140]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: 14
+[2018.03.04-22.47.47:058][140]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Player is dead.
+[2018.03.04-22.47.47:061][140]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Player is dead.
+[2018.03.04-22.47.48:146][205]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.47.48:256][205]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.47.48:274][205]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60354, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2018.03.04-22.47.48:275][205]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:60354, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.03.04-22.47.48
+[2018.03.04-22.47.48:275][205]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:60354, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2018.03.04-22.47.48:275][205]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.03.04-22.47.48:275][205]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.03.04-22.47.48
+[2018.03.04-22.47.48:275][205]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2018.03.04-22.47.48:278][205]LogExit: GameNetDriver None shut down
+[2018.03.04-22.47.48:278][205]LogExit: GameNetDriver None shut down
+[2018.03.04-22.47.53:660][439]LogSavePackage: Save=242.34ms
+[2018.03.04-22.47.53:660][439]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/TestMapED1C24944CFEDB246D4D2D8B85D4972B.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap.umap'
+[2018.03.04-22.47.53:664][439]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/TestMap.umap
+[2018.03.04-22.47.53:702][439]LogFileHelpers: Saving map 'TestMap' took 0.399
+[2018.03.04-22.48.46:969][635]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.03.04-22.48.47:076][635]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.48.47:076][635]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.03.04-22.48.47:078][635]PIE: New page: PIE session: TestMap (Mar 4, 2018, 6:48:47 AM)
+[2018.03.04-22.48.47:078][635]LogPlayLevel: Creating play world package: /Game/GameBlueprints/Maps/UEDPIE_1_TestMap
+[2018.03.04-22.48.47:095][635]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016828s)
+[2018.03.04-22.48.47:096][635]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.48.47:096][635]LogPlayLevel: PIE: World Init took: (0.000847s)
+[2018.03.04-22.48.47:097][635]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameBlueprints/Maps/TestMap.TestMap to /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap (0.018085s)
+[2018.03.04-22.48.47:127][635]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.03.04-22.48.47:148][635]LogInit: FAudioDevice initialized.
+[2018.03.04-22.48.47:223][635]LogLoad: Game class is 'ThirdPersonGamemode_C'
+[2018.03.04-22.48.47:230][635]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap up for play (max tick rate 60) at 2018.03.04-14.48.47
+[2018.03.04-22.48.47:231][635]LogWorld: Bringing up level for play took: 0.006383
+[2018.03.04-22.48.47:231][635]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.48.47:231][635]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2018.03.04-22.48.47:231][635]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.48.47:231][635]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.03.04-22.48.47:232][635]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.48.47:232][635]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 17777
+[2018.03.04-22.48.47:236][635]PIE: Play in editor start time for /Game/GameBlueprints/Maps/UEDPIE_1_TestMap 0.824
+[2018.03.04-22.48.47:238][635]PIE: New page: PIE session: TestMap (Mar 4, 2018, 6:48:47 AM)
+[2018.03.04-22.48.47:321][635]LogNet: Browse: 127.0.0.1:17777//Game/ThirdPersonBP/Maps/ThirdPersonExampleMap
+[2018.03.04-22.48.47:322][635]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.48.47:322][635]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2018.03.04-22.48.47:322][635]LogTemp: Display: ParseSettings for PendingNetDriver
+[2018.03.04-22.48.47:322][635]LogInit: WinSock: Socket queue 32768 / 32768
+[2018.03.04-22.48.47:322][635]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.48.47:323][635]LogNet: Game client on port 17777, rate 10000
+[2018.03.04-22.48.47:326][635]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap 0.914
+[2018.03.04-22.48.47:335][635]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.48.47:336][635]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59149
+[2018.03.04-22.48.47:336][635]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 125097219045067178011191017144240145183235221220083148110129
+[2018.03.04-22.48.47:338][635]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 125097219045067178011191017144240145183235221220083148110129
+[2018.03.04-22.48.47:426][636]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:59149
+[2018.03.04-22.48.47:426][636]LogHandshake: SendChallengeAck. InCookie: 125097219045067178011191017144240145183235221220083148110129
+[2018.03.04-22.48.47:426][636]LogNet: Server accepting post-challenge connection from: 127.0.0.1:59149
+[2018.03.04-22.48.47:426][636]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.03.04-22.48.47:426][636]LogNet: NotifyAcceptedConnection: Name: TestMap, TimeStamp: 03/04/18 14:48:47, [UNetConnection] RemoteAddr: 127.0.0.1:59149, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.04-22.48.47:426][636]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:59149, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2018.03.04-22.48.47:428][636]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL
+[2018.03.04-22.48.47:446][637]LogNet: NotifyAcceptingChannel Control 0 server World /Game/GameBlueprints/Maps/UEDPIE_1_TestMap.TestMap: Accepted
+[2018.03.04-22.48.47:446][637]LogNet: Remote platform little endian=1
+[2018.03.04-22.48.47:446][637]LogNet: This platform little endian=1
+[2018.03.04-22.48.47:461][638]LogNet: Login request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap userId: Invalid
+[2018.03.04-22.48.47:463][638]LogNet: Welcomed by server (Level: /Game/GameBlueprints/Maps/UEDPIE_1_TestMap, Game: /Game/GameBlueprints/Blueprints/ThirdPersonGameMode.ThirdPersonGamemode_C)
+[2018.03.04-22.48.47:464][638]LogLoad: LoadMap: 127.0.0.1:17777//Game/GameBlueprints/Maps/UEDPIE_1_TestMap?game=/Game/GameBlueprints/Blueprints/ThirdPersonGameMode.ThirdPersonGamemode_C
+[2018.03.04-22.48.47:502][638]LogAIModule: Creating AISystem for world TestMap
+[2018.03.04-22.48.47:503][638]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.03.04-22.48.47:510][638]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_2_TestMap.TestMap up for play (max tick rate 60) at 2018.03.04-14.48.47
+[2018.03.04-22.48.47:511][638]LogWorld: Bringing up level for play took: 0.006996
+[2018.03.04-22.48.47:511][638]LogLoad: Took 0.047285 seconds to LoadMap(/Game/GameBlueprints/Maps/UEDPIE_1_TestMap)
+[2018.03.04-22.48.47:527][639]LogNet: Client netspeed is 10000
+[2018.03.04-22.48.47:527][639]LogNet: Join request: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap?SplitscreenCount=1
+[2018.03.04-22.48.47:531][639]LogNet: Join succeeded: 265
+[2018.03.04-22.49.07:824][722]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: 1
+[2018.03.04-22.49.08:556][766]LogBlueprintUserMessages: [PlayerAnimBP_C_1] Server: Swapping montage occurred.
+[2018.03.04-22.49.08:556][766]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: We have weapon(s)!
+[2018.03.04-22.49.08:558][766]LogBlueprintUserMessages: [PlayerAnimBP_C_1] Client 1: Swapping montage occurred.
+[2018.03.04-22.49.08:558][766]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: We have weapon(s)!
+[2018.03.04-22.49.13:729][ 57]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 1
+[2018.03.04-22.49.14:446][100]LogBlueprintUserMessages: [PlayerAnimBP_C_0] Server: Swapping montage occurred.
+[2018.03.04-22.49.14:446][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: We have weapon(s)!
+[2018.03.04-22.49.14:448][100]LogBlueprintUserMessages: [PlayerAnimBP_C_0] Client 1: Swapping montage occurred.
+[2018.03.04-22.49.14:448][100]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: We have weapon(s)!
+[2018.03.04-22.49.14:448][100]LogNet: Warning: UIpNetDriver::ProcessRemoteFunction: No owning connection for actor ThirdPersonCharacter_167. Function ServerEquipWeapon will not be processed.
+[2018.03.04-22.49.17:711][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 28
+[2018.03.04-22.49.17:712][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.49.17:714][295]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.49.17:962][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 27
+[2018.03.04-22.49.17:962][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.49.17:965][310]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.49.18:229][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 26
+[2018.03.04-22.49.18:230][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.49.18:232][326]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.49.18:414][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 25
+[2018.03.04-22.49.18:414][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.49.18:417][337]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.49.19:400][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 24
+[2018.03.04-22.49.19:400][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.49.19:402][396]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.49.19:734][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 23
+[2018.03.04-22.49.19:734][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.49.19:736][416]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.49.19:983][431]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 22
+[2018.03.04-22.49.19:984][431]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: Cast to player failed.
+[2018.03.04-22.49.19:985][431]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Client 1: Cast to player failed.
+[2018.03.04-22.49.24:318][691]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 21
+[2018.03.04-22.49.24:935][728]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 20
+[2018.03.04-22.49.25:218][745]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 19
+[2018.03.04-22.49.26:185][803]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 18
+[2018.03.04-22.49.26:185][803]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.49.26:188][803]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.49.51:319][311]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Server: 28
+[2018.03.04-22.49.51:320][311]LogBlueprintUserMessages: [PlayerCharacter_C_0] Server: Player is dead.
+[2018.03.04-22.49.51:322][311]LogBlueprintUserMessages: [PlayerCharacter_C_0] Client 1: Player is dead.
+[2018.03.04-22.49.58:339][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.49.58:457][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap' with GeneratedClass '/Game/GameBlueprints/Maps/TestMap.TestMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/TestMap.TestMap:PersistentLevel.TestMap'
+[2018.03.04-22.49.58:475][732]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59149, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.03.04-22.49.58:475][732]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:59149, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2018.03.04-22.49.58
+[2018.03.04-22.49.58:475][732]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:59149, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: None, Owner: None
+[2018.03.04-22.49.58:475][732]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.03.04-22.49.58:475][732]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2018.03.04-22.49.58
+[2018.03.04-22.49.58:475][732]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: None, Owner: None
+[2018.03.04-22.49.58:479][732]LogExit: GameNetDriver None shut down
+[2018.03.04-22.49.58:481][732]LogExit: GameNetDriver None shut down
+[2018.03.04-22.50.25:120][284]Cmd: QUIT_EDITOR
+[2018.03.04-22.50.25:424][284]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.03.04-22.50.25:446][284]LogExit: Preparing to exit.
+[2018.03.04-22.50.26:438][284]LogDirectoryWatcher: A directory notification for 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Content/' was aborted.
+[2018.03.04-22.50.26:485][284]LogExit: Editor shut down
+[2018.03.04-22.50.26:497][284]LogExit: Transaction tracking system shut down
+[2018.03.04-22.50.26:666][284]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.03.04-22.50.26:667][284]LogDirectoryWatcher: A directory notification for '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/' was aborted.
+[2018.03.04-22.50.26:667][284]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2018.03.04-22.50.26:667][284]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.03.04-22.50.26:667][284]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.03.04-22.50.26:667][284]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.03.04-22.50.26:667][284]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.03.04-22.50.26:756][284]LogExit: Object subsystem successfully closed.
+[2018.03.04-22.50.26:787][284]LogD3D11RHI: Shutdown
+[2018.03.04-22.50.26:787][284]LogD3D11RHI: CleanupD3DDevice
+[2018.03.04-22.50.26:790][284]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.03.04-22.50.26:803][284]LogModuleManager: Shutting down and abandoning module BlueprintGraph (564)
+[2018.03.04-22.50.26:803][284]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (562)
+[2018.03.04-22.50.26:803][284]LogModuleManager: Shutting down and abandoning module SkeletonEditor (560)
+[2018.03.04-22.50.26:803][284]LogModuleManager: Shutting down and abandoning module PhysicsAssetEditor (558)
+[2018.03.04-22.50.26:803][284]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (554)
+[2018.03.04-22.50.26:803][284]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (552)
+[2018.03.04-22.50.26:803][284]LogModuleManager: Shutting down and abandoning module SceneOutliner (550)
+[2018.03.04-22.50.26:810][284]LogModuleManager: Shutting down and abandoning module AddContentDialog (548)
+[2018.03.04-22.50.26:810][284]LogDirectoryWatcher: A directory notification for 'C:/Program Files/Epic Games/UE_4.18/FeaturePacks/' was aborted.
+[2018.03.04-22.50.26:811][284]LogModuleManager: Shutting down and abandoning module WidgetCarousel (547)
+[2018.03.04-22.50.26:811][284]LogModuleManager: Shutting down and abandoning module EditorWidgets (544)
+[2018.03.04-22.50.26:811][284]LogModuleManager: Shutting down and abandoning module CollectionManager (542)
+[2018.03.04-22.50.26:812][284]LogDirectoryWatcher: A directory notification for 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Content/Collections/' was aborted.
+[2018.03.04-22.50.26:812][284]LogDirectoryWatcher: A directory notification for 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Content/Developers/socce/Collections/' was aborted.
+[2018.03.04-22.50.26:812][284]LogDirectoryWatcher: A directory notification for 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Saved/Collections/' was aborted.
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module StatsViewer (540)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module FoliageEdit (538)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module LandscapeEditor (536)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module MeshPaintMode (534)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (532)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module ActorPickerMode (530)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module GeometryMode (528)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module TextureAlignMode (526)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module BspMode (524)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (522)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module HardwareSurvey (520)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (518)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module AutomationWorker (516)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (514)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (512)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module PlacementMode (511)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (508)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (506)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (504)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (502)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (500)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (498)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (496)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (494)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (492)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module CharacterAI (490)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module AudioCapture (488)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module SequenceRecorder (487)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module SmartSnapping (484)
+[2018.03.04-22.50.26:812][284]LogModuleManager: Shutting down and abandoning module SessionServices (482)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module ViewportSnapping (480)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module ViewportInteraction (478)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module ClothPainter (476)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (475)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module LogVisualizer (472)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module IntroTutorials (470)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (469)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (466)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (464)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (462)
+[2018.03.04-22.50.26:813][284]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (461)
+[2018.03.04-22.50.27:735][284]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (458)
+[2018.03.04-22.50.27:735][284]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (456)
+[2018.03.04-22.50.27:735][284]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (454)
+[2018.03.04-22.50.27:735][284]LogModuleManager: Shutting down and abandoning module InputBindingEditor (452)
+[2018.03.04-22.50.27:735][284]LogModuleManager: Shutting down and abandoning module MergeActors (450)
+[2018.03.04-22.50.27:735][284]LogModuleManager: Shutting down and abandoning module SizeMap (448)
+[2018.03.04-22.50.27:735][284]LogModuleManager: Shutting down and abandoning module TreeMap (446)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module ReferenceViewer (444)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (442)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module LocalizationService (441)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module HardwareTargeting (438)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (436)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module UndoHistory (434)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module XmlParser (432)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module Blutility (430)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (428)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (427)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (424)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module SettingsEditor (422)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module ProjectLauncher (420)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module SessionFrontend (418)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module ProfilerClient (416)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module DeviceManager (414)
+[2018.03.04-22.50.27:736][284]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (413)
+[2018.03.04-22.50.27:788][284]LogModuleManager: Shutting down and abandoning module AutomationController (410)
+[2018.03.04-22.50.27:788][284]LogModuleManager: Shutting down and abandoning module AutomationWindow (408)
+[2018.03.04-22.50.27:788][284]LogModuleManager: Shutting down and abandoning module Layers (406)
+[2018.03.04-22.50.27:788][284]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (404)
+[2018.03.04-22.50.27:788][284]LogModuleManager: Shutting down and abandoning module DetailCustomizations (402)
+[2018.03.04-22.50.27:788][284]LogModuleManager: Shutting down and abandoning module PackagesDialog (400)
+[2018.03.04-22.50.27:788][284]LogModuleManager: Shutting down and abandoning module Persona (398)
+[2018.03.04-22.50.27:788][284]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (397)
+[2018.03.04-22.50.27:788][284]LogModuleManager: Shutting down and abandoning module AnimGraph (395)
+[2018.03.04-22.50.27:788][284]LogModuleManager: Shutting down and abandoning module Kismet (392)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module ClassViewer (390)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module Toolbox (388)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module ModuleUI (386)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module MovieSceneTools (384)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module OutputLog (382)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module GammaUI (380)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module Documentation (378)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (376)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module MovieScene (374)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (372)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module LauncherPlatform (370)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module AnalyticsET (368)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module PortalServices (366)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module PortalRpc (364)
+[2018.03.04-22.50.27:796][284]LogModuleManager: Shutting down and abandoning module MessagingRpc (362)
+[2018.03.04-22.50.27:797][284]LogModuleManager: Shutting down and abandoning module AIModule (360)
+[2018.03.04-22.50.27:797][284]LogModuleManager: Shutting down and abandoning module GameplayDebugger (359)
+[2018.03.04-22.50.27:797][284]LogModuleManager: Shutting down and abandoning module AITestSuite (357)
+[2018.03.04-22.50.27:797][284]LogModuleManager: Shutting down and abandoning module DesktopPlatform (354)
+[2018.03.04-22.50.27:797][284]LogModuleManager: Shutting down and abandoning module ProfilerService (352)
+[2018.03.04-22.50.27:959][284]LogModuleManager: Shutting down and abandoning module TaskGraph (350)
+[2018.03.04-22.50.27:959][284]LogModuleManager: Shutting down and abandoning module SteamVRController (348)
+[2018.03.04-22.50.27:959][284]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (346)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (344)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module OculusInput (342)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (340)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (338)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module CableComponent (336)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (334)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module AndroidPermission (332)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module ActorSequence (328)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (326)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (324)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module MediaCompositing (322)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module HTML5Networking (320)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module AlembicImporter (318)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module AlembicLibrary (317)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module GeometryCache (316)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (315)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (310)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module PluginBrowser (308)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (306)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (304)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (302)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module UObjectPlugin (300)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (298)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (296)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module GitSourceControl (294)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module SourceControl (293)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (290)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (288)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (286)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module Paper2DEditor (284)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module MeshPaint (283)
+[2018.03.04-22.50.27:960][284]LogModuleManager: Shutting down and abandoning module LevelEditor (281)
+[2018.03.04-22.50.27:961][284]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (280)
+[2018.03.04-22.50.27:961][284]LogModuleManager: Shutting down and abandoning module MainFrame (278)
+[2018.03.04-22.50.27:961][284]LogModuleManager: Shutting down and abandoning module HotReload (277)
+[2018.03.04-22.50.27:962][284]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (272)
+[2018.03.04-22.50.27:962][284]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (270)
+[2018.03.04-22.50.27:962][284]LogModuleManager: Shutting down and abandoning module PhysXVehicles (268)
+[2018.03.04-22.50.27:962][284]LogModuleManager: Shutting down and abandoning module OculusEditor (266)
+[2018.03.04-22.50.27:962][284]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (264)
+[2018.03.04-22.50.27:962][284]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (262)
+[2018.03.04-22.50.27:962][284]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (260)
+[2018.03.04-22.50.27:962][284]LogModuleManager: Shutting down and abandoning module ApexDestructionEditor (258)
+[2018.03.04-22.50.27:962][284]LogModuleManager: Shutting down and abandoning module ApexDestruction (256)
+[2018.03.04-22.50.27:962][284]LogModuleManager: Shutting down and abandoning module UdpMessaging (254)
+[2018.03.04-22.50.28:063][284]LogModuleManager: Shutting down and abandoning module TcpMessaging (252)
+[2018.03.04-22.50.28:164][284]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (250)
+[2018.03.04-22.50.28:164][284]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (248)
+[2018.03.04-22.50.28:164][284]LogModuleManager: Shutting down and abandoning module FacialAnimation (246)
+[2018.03.04-22.50.28:164][284]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (244)
+[2018.03.04-22.50.28:164][284]LogModuleManager: Shutting down and abandoning module GraphEditor (243)
+[2018.03.04-22.50.28:164][284]LogModuleManager: Shutting down and abandoning module ContentBrowser (241)
+[2018.03.04-22.50.28:165][284]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (238)
+[2018.03.04-22.50.28:165][284]LogModuleManager: Shutting down and abandoning module Paper2D (236)
+[2018.03.04-22.50.28:165][284]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (234)
+[2018.03.04-22.50.28:166][284]LogModuleManager: Shutting down and abandoning module WmfMedia (232)
+[2018.03.04-22.50.28:168][284]LogModuleManager: Shutting down and abandoning module ImgMedia (230)
+[2018.03.04-22.50.28:168][284]LogModuleManager: Shutting down and abandoning module PacketHandler (228)
+[2018.03.04-22.50.28:168][284]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (226)
+[2018.03.04-22.50.28:168][284]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (224)
+[2018.03.04-22.50.28:168][284]LogModuleManager: Shutting down and abandoning module MediaAssets (222)
+[2018.03.04-22.50.28:168][284]LogModuleManager: Shutting down and abandoning module Media (221)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module Overlay (218)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module OverlayEditor (217)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2018.03.04-22.50.28:174][284]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2018.03.04-22.50.28:175][284]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2018.03.04-22.50.28:175][284]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2018.03.04-22.50.28:175][284]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2018.03.04-22.50.28:175][284]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2018.03.04-22.50.28:175][284]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2018.03.04-22.50.28:178][284]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2018.03.04-22.50.28:178][284]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2018.03.04-22.50.28:178][284]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2018.03.04-22.50.28:178][284]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2018.03.04-22.50.28:178][284]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2018.03.04-22.50.28:178][284]LogModuleManager: Shutting down and abandoning module Core (172)
+[2018.03.04-22.50.28:178][284]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2018.03.04-22.50.28:178][284]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (166)
+[2018.03.04-22.50.28:181][284]LogModuleManager: Shutting down and abandoning module KismetCompiler (164)
+[2018.03.04-22.50.28:181][284]LogModuleManager: Shutting down and abandoning module MeshUtilities (162)
+[2018.03.04-22.50.28:181][284]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (161)
+[2018.03.04-22.50.28:181][284]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (160)
+[2018.03.04-22.50.28:181][284]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (159)
+[2018.03.04-22.50.28:181][284]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (157)
+[2018.03.04-22.50.28:181][284]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (155)
+[2018.03.04-22.50.28:181][284]LogModuleManager: Shutting down and abandoning module MaterialBaking (151)
+[2018.03.04-22.50.28:181][284]LogModuleManager: Shutting down and abandoning module DerivedDataCache (148)
+[2018.03.04-22.50.28:193][284]LogDerivedDataCache: Shutdown
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module TargetPlatform (146)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (145)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (143)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (141)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (139)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (137)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (135)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (133)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (131)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (129)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (127)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module ImageWrapper (126)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (123)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (121)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (119)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (117)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (115)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (113)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (111)
+[2018.03.04-22.50.28:193][284]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (109)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (107)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module Messaging (105)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (103)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (101)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (99)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (83)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (81)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (79)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (77)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (75)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (73)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (71)
+[2018.03.04-22.50.28:194][284]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (69)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (67)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module InputCore (64)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module Settings (62)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module PhysXCooking (60)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module SteamVR (58)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module OculusHMD (56)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (54)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module AppleARKit (52)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.03.04-22.50.28:195][284]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.03.04-22.50.28:195][284]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.03.04-22.50.28:195][284]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB3AE2AC7-4B77-8030-27FD-B3BB6C188DC2%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.18.3-3832480%2B%2B%2BUE4%2BRelease-4.18&UserID=d6a05a80407f0a7a1d08b0a11bbd0f28%7C2d8913525dc44a6897b17c214ddbdfd5%7Cb94badd6-4399-4c0d-b8c4-ed27987f24d9&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.03.04-22.50.28:228][284]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.03.04-22.50.28:229][284]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.03.04-22.50.28:229][284]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.03.04-22.50.28:229][284]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.03.04-22.50.28:229][284]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.03.04-22.50.28:229][284]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.03.04-22.50.28:229][284]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.03.04-22.50.28:229][284]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.03.04-22.50.28:230][284]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.03.04-22.50.28:234][284]LogExit: Exiting.
+[2018.03.04-22.50.28:254][284]Log file closed, 03/04/18 14:50:28

@@ -1,0 +1,783 @@
+﻿Log file open, 02/19/18 16:36:29
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DoDTPS
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-763481130) SRandInit(-763481129).
+LogInit: Read version file with build ID '3709383'
+LogInit: Overriding engine version to CL 3832480, compatible CL 3709383
+LogInit: Registered custom module enumerator with build ID '3709383'
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.191019
+LogD3D11RHI: Aftermath initialized
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3709383).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3709383).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogHMD: Failed initializing OVRPlugin 1.19.0
+LogInit: Build: ++UE4+Release-4.18-CL-3832480
+LogInit: Engine Version: 4.18.3-3832480+++UE4+Release-4.18
+LogInit: Compatible Engine Version: 4.18.0-3709383+++UE4+Release-4.18
+LogInit: Net CL: 3709383
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 30
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 20
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 12
+LogInit: Compiled (64-bit): Jan 12 2018 02:04:55
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.18
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: C:/Program Files/Epic Games/UE_4.18/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.02.20-00.36.32:084][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.20-00.36.32:084][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.02.20-00.36.32:102][  0]LogInit: Computer: DESKTOP-BM3DS5T
+[2018.02.20-00.36.32:102][  0]LogInit: User: socce
+[2018.02.20-00.36.32:102][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.02.20-00.36.32:102][  0]LogInit: High frequency timer resolution =2.742190 MHz
+[2018.02.20-00.36.32:103][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.02.20-00.36.32:103][  0]LogMemory: Platform Memory Stats for Windows
+[2018.02.20-00.36.32:103][  0]LogMemory: Process Physical Memory: 280.36 MB used, 280.36 MB peak
+[2018.02.20-00.36.32:103][  0]LogMemory: Process Virtual Memory: 274.34 MB used, 274.34 MB peak
+[2018.02.20-00.36.32:103][  0]LogMemory: Physical Memory: 6319.32 MB used,  9948.29 MB free, 16267.61 MB total
+[2018.02.20-00.36.32:103][  0]LogMemory: Virtual Memory: 732.39 MB used,  9948.29 MB free, 134217728.00 MB total
+[2018.02.20-00.36.32:294][  0]LogInit: Using OS detected language (en-US).
+[2018.02.20-00.36.32:295][  0]LogInit: Using OS detected locale (en-US).
+[2018.02.20-00.36.32:298][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.02.20-00.36.32:794][  0]LogInit: Setting process to per monitor DPI aware
+[2018.02.20-00.36.33:130][  0]LogD3D11RHI: D3D11 adapters:
+[2018.02.20-00.36.33:168][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2018.02.20-00.36.33:168][  0]LogD3D11RHI:       6052/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.02.20-00.36.33:178][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.02.20-00.36.33:178][  0]LogD3D11RHI:       128/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.02.20-00.36.33:181][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.02.20-00.36.33:181][  0]LogD3D11RHI:       0/0/8133 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.02.20-00.36.33:181][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.02.20-00.36.33:189][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.02.20-00.36.33:189][  0]LogD3D11RHI:     GPU DeviceId: 0x1c20 (for the marketing name, search the web for "GPU Device Id")
+[2018.02.20-00.36.33:189][  0]LogWindows: EnumDisplayDevices:
+[2018.02.20-00.36.33:189][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.02.20-00.36.33:189][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.20-00.36.33:190][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.02.20-00.36.33:190][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.20-00.36.33:190][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.20-00.36.33:190][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.20-00.36.33:190][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2018.02.20-00.36.33:190][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.02.20-00.36.33:191][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2018.02.20-00.36.33:191][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.02.20-00.36.33:191][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.02.20-00.36.33:191][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2018.02.20-00.36.33:220][  0]LogD3D11RHI: Async texture creation enabled
+[2018.02.20-00.36.33:332][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.02.20-00.36.33:333][  0]LogShaderCompilers: Guid format shader working directory is -16 characters bigger than the processId version (../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Intermediate/Shaders/WorkingDirectory/9748/).
+[2018.02.20-00.36.33:333][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/socce/AppData/Local/Temp/UnrealShaderWorkingDir/1779395347A251CF43D32F90481FA510/'.
+[2018.02.20-00.36.33:334][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.02.20-00.36.34:467][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.02.20-00.36.34:534][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.02.20-00.36.34:598][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.02.20-00.36.34:661][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.02.20-00.36.34:735][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.02.20-00.36.34:797][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.02.20-00.36.34:866][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.02.20-00.36.34:930][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.02.20-00.36.34:996][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.02.20-00.36.35:061][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.02.20-00.36.35:131][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.02.20-00.36.35:196][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.02.20-00.36.35:260][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.02.20-00.36.35:341][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.02.20-00.36.35:472][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.02.20-00.36.35:472][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.02.20-00.36.35:534][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.02.20-00.36.35:583][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.02.20-00.36.35:691][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.02.20-00.36.35:726][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.02.20-00.36.35:793][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.02.20-00.36.35:856][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.02.20-00.36.35:924][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.02.20-00.36.35:985][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.02.20-00.36.35:985][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.02.20-00.36.36:588][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.02.20-00.36.36:673][  0]LogDerivedDataCache: Loaded boot cache 0.09s 78MB C:/Users/socce/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.20-00.36.36:673][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/socce/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc
+[2018.02.20-00.36.36:673][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.02.20-00.36.36:673][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.02.20-00.36.36:673][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.02.20-00.36.36:673][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.02.20-00.36.36:691][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.02.20-00.36.36:703][  0]LogDerivedDataCache: Using Local data cache path C:/Users/socce/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.02.20-00.36.36:716][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.02.20-00.36.36:716][  0]LogSlate: Using Freetype 2.6.0
+[2018.02.20-00.36.36:717][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.20-00.36.36:717][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.02.20-00.36.37:149][  0]LogInit: Selected Device Profile: [Windows]
+[2018.02.20-00.36.37:565][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.02.20-00.36.37:614][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.02.20-00.36.37:614][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.02.20-00.36.37:614][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.02.20-00.36.37:614][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.02.20-00.36.37:614][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.02.20-00.36.37:644][  0]LogNetVersion: DoDTPS , NetCL: 3709383, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2034490513)
+[2018.02.20-00.36.37:857][  0]LogAssetRegistry: FAssetRegistry took 0.0269 seconds to start up
+[2018.02.20-00.36.38:489][  0]LogPackageLocalizationCache: Processed 7 localized package path(s) for 2 prioritized culture(s) in 0.097203 seconds
+[2018.02.20-00.36.38:497][  0]LogUObjectArray: 35870 objects as part of root set at end of initial load.
+[2018.02.20-00.36.38:497][  0]LogUObjectAllocator: 7363704 out of 0 bytes used by permanent object pool.
+[2018.02.20-00.36.38:497][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.02.20-00.36.38:563][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2018.02.20-00.36.42:152][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.02.20-00.36.42:201][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.02.20-00.36.43:018][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2018.02.20-00.36.43:551][  0]SourceControl: Source control is disabled
+[2018.02.20-00.36.43:552][  0]SourceControl: Source control is disabled
+[2018.02.20-00.36.43:616][  0]SourceControl: Source control is disabled
+[2018.02.20-00.36.43:683][  0]SourceControl: Source control is disabled
+[2018.02.20-00.36.44:692][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.02.20-00.36.45:014][  0]LogOcInput: OculusInput pre-init called
+[2018.02.20-00.36.45:363][  0]LogEngine: Initializing Engine...
+[2018.02.20-00.36.45:365][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.02.20-00.36.45:604][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.02.20-00.36.45:605][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.02.20-00.36.45:764][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.20-00.36.45:778][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.20-00.36.45:803][  0]LogInit: FAudioDevice initialized.
+[2018.02.20-00.36.45:891][  0]LogDerivedDataCache: Saved boot cache 0.09s 78MB C:/Users/socce/AppData/Local/UnrealEngine/4.18/DerivedDataCache/Boot.ddc.
+[2018.02.20-00.36.45:907][  0]LogInit: Texture streaming: Enabled
+[2018.02.20-00.36.46:022][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.02.20-00.36.46:185][  0]LogInit: Transaction tracking system initialized
+[2018.02.20-00.36.46:563][  0]BlueprintLog: New page: Editor Load
+[2018.02.20-00.36.47:634][  0]LocalizationService: Localization service is disabled
+[2018.02.20-00.36.48:333][  0]LogLinker: Warning: Can't find file '/Game/GameBlueprints/ThirdPersonOverview'
+[2018.02.20-00.36.48:333][  0]LogLinker: Warning: Can't find file '/Game/GameBlueprints/ThirdPersonOverview'
+[2018.02.20-00.36.48:333][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/GameBlueprints/ThirdPersonOverview.ThirdPersonOverview_C'
+[2018.02.20-00.36.48:902][  0]LogConsoleResponse: Display: 
+[2018.02.20-00.36.49:108][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.02.20-00.36.49:108][  0]LogCook: Display: Mobile HDR setting 1
+[2018.02.20-00.36.49:109][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.02.20-00.36.49:340][  0]LogFileCache: Scanning file cache for directory 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Content/' took 0.02s
+[2018.02.20-00.36.50:545][  0]SourceControl: Source control is disabled
+[2018.02.20-00.36.50:545][  0]Cmd: MAP LOAD FILE="../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.20-00.36.50:569][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.02.20-00.39.48:538][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.20-00.39.48:544][  0]LightingResults: New page: Lighting Build
+[2018.02.20-00.39.48:594][  0]MapCheck: New page: Map Check
+[2018.02.20-00.39.48:594][  0]LightingResults: New page: Lighting Build
+[2018.02.20-00.39.48:606][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.02.20-00.39.48:609][  0]LoadErrors: New page: New Map
+[2018.02.20-00.39.48:662][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.02.20-00.39.48:773][  0]LogCollectionManager: Loaded 0 collections in 0.001947 seconds
+[2018.02.20-00.39.48:862][  0]LogFileCache: Scanning file cache for directory 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Saved/Collections/' took 0.01s
+[2018.02.20-00.39.48:862][  0]LogFileCache: Scanning file cache for directory 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Content/Developers/socce/Collections/' took 0.01s
+[2018.02.20-00.39.48:862][  0]LogFileCache: Scanning file cache for directory 'C:/Users/socce/Documents/Unreal Projects/DoDTPS/Content/Collections/' took 0.01s
+[2018.02.20-00.39.48:862][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.02.20-00.39.48:872][  0]LogContentBrowser: Native class hierarchy populated in 0.0093 seconds. Added 2363 classes and 519 folders.
+[2018.02.20-00.39.48:948][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.02.20-00.39.49:296][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.02.20-00.39.49:349][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.02.20-00.39.49:419][  0]LogSlate: Took 0.000209 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.02.20-00.39.49:430][  0]LogSlate: Took 0.005527 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.02.20-00.39.49:572][  0]LogRenderer: Reallocating scene render targets to support 992x464 Format 9 NumSamples 1 (Frame:1).
+[2018.02.20-00.39.49:725][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 1 classes and 2 folders.
+[2018.02.20-00.39.49:725][  0]LogLoad: (Engine Initialization) Total time: 201.06 seconds
+[2018.02.20-00.39.49:725][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.02.20-00.39.49:725][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2018.02.20-00.39.49:778][  0]LogContentStreaming: Texture pool size now 600 MB
+[2018.02.20-00.39.49:798][  0]LogSlate: Took 0.003859 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-00.39.49:853][  1]LogAssetRegistry: Asset discovery search completed in 192.0184 seconds
+[2018.02.20-00.39.49:855][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.02.20-00.39.49:855][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000059 seconds (updated 0 objects)
+[2018.02.20-00.39.50:768][ 55]LogSlate: Took 0.000315 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-00.39.56:534][399]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2018.02.20-00.39.56:592][399]LogContentBrowser: Native class hierarchy updated for 'MaterialEditor' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.02.20-00.39.56:595][399]LogMaterial: Missing cached shader map for material M_m200_sniper, compiling. 
+[2018.02.20-00.39.57:003][399]LogMaterial: Missing cached shader map for material M_m200_sniper, compiling. 
+[2018.02.20-00.39.57:063][399]LogMaterial: Missing cached shader map for material M_m200_sniper, compiling. 
+[2018.02.20-00.39.57:149][399]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.02.20-00.39.57:156][399]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_1, compiling. 
+[2018.02.20-00.39.57:162][399]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_2, compiling. 
+[2018.02.20-00.39.57:168][399]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_0, compiling. 
+[2018.02.20-00.39.57:175][399]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_1, compiling. 
+[2018.02.20-00.39.57:181][399]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureObject_2, compiling. 
+[2018.02.20-00.39.57:204][399]LogSlate: Took 0.006802 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.02.20-00.40.02:558][695]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.20-00.40.02:558][695]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.02.20-00.40.02:558][695]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.20-00.40.02:558][695]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.20-00.40.02:558][695]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.20-00.40.06:601][892]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.20-00.40.06:641][892]Cmd: MAP LOAD FILE="../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.02.20-00.40.06:642][892]LightingResults: New page: Lighting Build
+[2018.02.20-00.40.06:642][892]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2018.02.20-00.40.06:643][892]MapCheck: New page: Map Check
+[2018.02.20-00.40.06:643][892]LightingResults: New page: Lighting Build
+[2018.02.20-00.40.06:735][892]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.02.20-00.40.06:778][892]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.02.20-00.40.06:847][892]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 68.999ms to complete.
+[2018.02.20-00.40.06:848][892]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.208
+[2018.02.20-00.40.10:311][ 98]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.20-00.40.10:381][ 98]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.40.10:381][ 98]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-00.40.10:382][ 98]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 19, 2018, 8:40:10 AM)
+[2018.02.20-00.40.10:384][ 98]LogPlayLevel: Creating play world package: /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.20-00.40.10:410][ 98]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025906s)
+[2018.02.20-00.40.10:411][ 98]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.20-00.40.10:411][ 98]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2018.02.20-00.40.10:411][ 98]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.026919s)
+[2018.02.20-00.40.10:426][ 98]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.20-00.40.10:444][ 98]LogInit: FAudioDevice initialized.
+[2018.02.20-00.40.10:536][ 98]LogLoad: Game class is 'ThirdPersonGamemode_C'
+[2018.02.20-00.40.10:540][ 98]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.19-16.40.10
+[2018.02.20-00.40.10:540][ 98]LogWorld: Bringing up level for play took: 0.002699
+[2018.02.20-00.40.10:598][ 98]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.02.20-00.40.10:602][ 98]PIE: Play in editor start time for /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap -0.585
+[2018.02.20-00.40.10:603][ 98]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.40.30:627][296]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.40.30:688][296]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.40.42:981][  9]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.02.20-00.41.34:727][ 50]LogEditorTransaction: Undo Move Anchor
+[2018.02.20-00.41.34:761][ 50]LogMaterial: Missing cached shader map for material M_m200_sniper, compiling. 
+[2018.02.20-00.41.37:373][201]LogEditorTransaction: Undo Move Anchor
+[2018.02.20-00.41.37:419][201]LogMaterial: Missing cached shader map for material M_m200_sniper, compiling. 
+[2018.02.20-00.41.41:671][448]LogEditorTransaction: Undo Move Anchor
+[2018.02.20-00.41.41:716][448]LogMaterial: Missing cached shader map for material M_m200_sniper, compiling. 
+[2018.02.20-00.41.42:192][470]LogEditorTransaction: Undo Move Anchor
+[2018.02.20-00.41.42:240][470]LogMaterial: Missing cached shader map for material M_m200_sniper, compiling. 
+[2018.02.20-00.41.46:784][737]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.20-00.41.46:784][737]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.02.20-00.41.46:784][737]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.20-00.41.46:784][737]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.20-00.41.46:784][737]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.20-00.41.58:478][439]BlueprintLog: New page: Compile PlayerHUD
+[2018.02.20-00.41.58:658][439]LogSavePackage: Save=13.68ms
+[2018.02.20-00.41.58:658][439]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/PlayerHUDDE4902624A722B944A9599BDCFBC1782.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerHUD.uasset'
+[2018.02.20-00.41.58:663][439]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerHUD.uasset
+[2018.02.20-00.42.06:410][861]LogSlate: Took 0.004679 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.02.20-00.45.11:483][522]BlueprintLog: New page: Compile PlayerCharacter
+[2018.02.20-00.45.12:592][522]LogSavePackage: Save=250.19ms
+[2018.02.20-00.45.12:593][522]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/PlayerCharacter677E98824CD6DC396F198F88130DDAE7.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset'
+[2018.02.20-00.45.12:597][522]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerCharacter.uasset
+[2018.02.20-00.45.13:919][583]LogSavePackage: Save=187.56ms
+[2018.02.20-00.45.13:919][583]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/ThirdPersonExampleMap08572A0949034185C88730BFD6A04F8C.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/ThirdPersonExampleMap.umap'
+[2018.02.20-00.45.13:924][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/ThirdPersonExampleMap.umap
+[2018.02.20-00.45.14:155][583]LogSavePackage: Save=172.59ms
+[2018.02.20-00.45.14:155][583]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/ThirdPersonExampleMap_BuiltData91801FA94D7F9BBEA8A24B8D17B8C64C.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.20-00.45.14:157][583]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.20-00.45.14:445][599]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.20-00.45.14:511][599]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.45.14:511][599]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-00.45.14:511][599]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 19, 2018, 8:45:14 AM)
+[2018.02.20-00.45.14:511][599]LogPlayLevel: Creating play world package: /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.20-00.45.14:527][599]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015933s)
+[2018.02.20-00.45.14:528][599]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.20-00.45.14:528][599]LogPlayLevel: PIE: World Init took: (0.000873s)
+[2018.02.20-00.45.14:528][599]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017118s)
+[2018.02.20-00.45.14:554][599]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.20-00.45.14:576][599]LogInit: FAudioDevice initialized.
+[2018.02.20-00.45.14:650][599]LogLoad: Game class is 'ThirdPersonGamemode_C'
+[2018.02.20-00.45.14:654][599]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.19-16.45.14
+[2018.02.20-00.45.14:654][599]LogWorld: Bringing up level for play took: 0.002672
+[2018.02.20-00.45.14:665][599]PIE: Play in editor start time for /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap -0.522
+[2018.02.20-00.45.14:665][599]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.45.59:228][266]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.45.59:283][266]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.46.07:494][751]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.SKEL_RifleUI_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.07:494][751]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.07:494][751]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SniperU:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.07:494][751]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SKEL_SniperU_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.07:494][751]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SniperU_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.07:494][751]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Blueprints/PlayerHUD.PlayerHUD:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.07:494][751]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:SniperU_C_5.WidgetTree_11.CanvasPanel_0
+[2018.02.20-00.46.07:494][751]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:RifleUI_C_5.WidgetTree_10.CanvasPanel_0
+[2018.02.20-00.46.07:494][751]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Blueprints/PlayerHUD.PlayerHUD_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.07:494][751]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_10.WidgetTree_23.CanvasPanel_0
+[2018.02.20-00.46.07:501][751]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_0) from referencer (Image /Engine/UMG/Editor/Transient.Middle).  Import failed...
+[2018.02.20-00.46.07:501][751]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_0"''
+[2018.02.20-00.46.17:126][321]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Middle' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:127][321]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_1' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:127][321]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_3' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:129][321]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_5' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:142][322]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_7' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:144][322]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_9' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:146][322]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_11' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:159][323]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_13' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:160][323]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_15' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:162][323]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_17' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:175][324]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_19' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:178][324]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_21' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:192][325]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_23' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:194][325]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_25' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:209][326]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_27' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:211][326]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_29' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:225][327]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_31' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:228][327]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_33' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:242][328]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_35' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:245][328]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_37' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:259][329]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_39' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:261][329]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_41' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:276][330]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_43' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:278][330]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_45' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:292][331]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_47' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:294][331]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_49' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:309][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_51' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:311][332]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_53' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:325][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_55' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:328][333]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_57' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:342][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_59' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:344][334]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_61' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:359][335]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_63' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:361][335]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_65' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:375][336]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_67' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:378][336]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_69' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:392][337]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_71' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:394][337]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_73' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:409][338]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_75' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:411][338]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_77' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:426][339]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_79' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:428][339]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_81' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:442][340]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_83' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:444][340]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_85' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:459][341]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_87' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:461][341]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_89' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:477][342]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_91' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:494][343]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_93' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:510][344]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_95' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:542][346]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_97' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:545][346]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_99' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:560][347]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_101' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:575][348]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_103' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:578][348]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_105' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:593][349]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_107' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:609][350]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_109' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:611][350]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_111' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:625][351]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_113' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:628][351]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_115' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:642][352]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_117' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:644][352]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_119' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:647][352]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_121' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:659][353]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_123' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:660][353]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_125' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:662][353]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_127' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:676][354]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_129' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:678][354]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_131' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:692][355]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_133' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:694][355]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_135' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:696][355]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_137' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:709][356]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_139' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:710][356]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_141' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:712][356]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_143' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:727][357]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_145' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:742][358]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_147' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:745][358]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_149' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:760][359]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_151' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:775][360]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_153' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:777][360]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_155' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:792][361]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_157' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:795][361]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_159' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:809][362]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_161' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:811][362]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_163' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:826][363]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_165' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:828][363]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_167' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:842][364]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_169' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:843][364]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_171' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:845][364]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_173' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:859][365]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_175' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:861][365]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_177' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:875][366]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_179' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:878][366]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_181' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:892][367]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_183' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:895][367]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_185' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:909][368]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_187' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:911][368]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_189' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:925][369]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_191' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:928][369]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_193' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:942][370]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_195' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:943][370]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_197' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:945][370]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_199' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:959][371]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_201' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:961][371]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_203' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:975][372]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_205' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:977][372]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_207' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:992][373]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_209' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.17:994][373]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_211' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:009][374]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_213' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:011][374]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_215' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:026][375]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_217' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:028][375]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_219' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:042][376]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_221' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:045][376]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_223' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:059][377]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_225' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:061][377]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_227' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:075][378]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_229' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:078][378]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_231' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:092][379]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_233' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:094][379]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_235' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:109][380]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_237' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:111][380]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_239' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:125][381]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_241' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:128][381]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_243' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:143][382]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_245' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:159][383]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_247' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:160][383]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_249' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:162][383]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_251' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:175][384]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_253' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:178][384]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_255' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:192][385]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_257' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:194][385]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_259' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:209][386]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_261' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:211][386]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_263' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:227][387]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_265' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:242][388]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_267' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:244][388]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_269' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:259][389]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_271' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:263][389]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_273' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:275][390]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_275' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:278][390]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_277' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:292][391]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_279' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:294][391]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_281' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:309][392]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_283' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:311][392]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_285' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:325][393]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_287' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:327][393]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_289' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:343][394]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_291' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:475][402]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_293' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:478][402]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_295' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:492][403]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_297' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:495][403]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_299' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:509][404]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_301' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:512][404]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_303' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:526][405]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_305' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:528][405]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_307' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:542][406]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_309' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:544][406]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_311' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.18:560][407]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.Image_313' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.02.20-00.46.30:461][106]LogEditorTransaction: Undo Resize Widget
+[2018.02.20-00.46.30:496][106]LogMaterial: Missing cached shader map for material M_m200_sniper, compiling. 
+[2018.02.20-00.46.35:306][389]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.20-00.46.35:306][389]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.02.20-00.46.35:306][389]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.20-00.46.35:306][389]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.20-00.46.35:306][389]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.SKEL_RifleUI_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SniperU:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SKEL_SniperU_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SniperU_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Blueprints/PlayerHUD.PlayerHUD:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_14.WidgetTree_27.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_12.WidgetTree_25.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:SniperU_C_5.WidgetTree_11.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_13.WidgetTree_26.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_11.WidgetTree_24.CanvasPanel_0
+[2018.02.20-00.46.57:196][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:RifleUI_C_5.WidgetTree_10.CanvasPanel_0
+[2018.02.20-00.46.57:197][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Blueprints/PlayerHUD.PlayerHUD_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:197][699]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_10.WidgetTree_23.CanvasPanel_0
+[2018.02.20-00.46.57:197][699]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_1) from referencer (Image /Engine/UMG/Editor/Transient.L).  Import failed...
+[2018.02.20-00.46.57:197][699]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_1"''
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.SKEL_RifleUI_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SniperU:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SKEL_SniperU_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SniperU_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Blueprints/PlayerHUD.PlayerHUD:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_14.WidgetTree_27.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_12.WidgetTree_25.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_15.WidgetTree_28.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:SniperU_C_5.WidgetTree_11.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_13.WidgetTree_26.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_11.WidgetTree_24.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:RifleUI_C_5.WidgetTree_10.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Blueprints/PlayerHUD.PlayerHUD_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_10.WidgetTree_23.CanvasPanel_0
+[2018.02.20-00.46.57:538][718]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_1) from referencer (Image /Engine/UMG/Editor/Transient.L).  Import failed...
+[2018.02.20-00.46.57:538][718]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_1"''
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.SKEL_RifleUI_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SniperU:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SKEL_SniperU_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Pickups/SniperU.SniperU_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Blueprints/PlayerHUD.PlayerHUD:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_14.WidgetTree_27.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_12.WidgetTree_25.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_15.WidgetTree_28.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:SniperU_C_5.WidgetTree_11.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_13.WidgetTree_26.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_11.WidgetTree_24.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:RifleUI_C_5.WidgetTree_10.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Game/GameBlueprints/Blueprints/PlayerHUD.PlayerHUD_C:WidgetTree.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_10.WidgetTree_23.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogUObjectHash: Warning: Ambiguous search, could be CanvasPanel /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0 or CanvasPanel /Engine/Transient.World_4:PlayerHUD_C_16.WidgetTree_29.CanvasPanel_0
+[2018.02.20-00.46.58:165][754]LogProperty: Warning: Illegal TEXT reference to a private object in external package (CanvasPanelSlot /Game/GameBlueprints/Pickups/RifleUI.RifleUI:WidgetTree.CanvasPanel_0.CanvasPanelSlot_1) from referencer (Image /Engine/UMG/Editor/Transient.L).  Import failed...
+[2018.02.20-00.46.58:165][754]LogProperty: Warning: ObjectProperty /Script/UMG.Widget:Slot: unresolved reference to 'CanvasPanelSlot'"CanvasPanel_0.CanvasPanelSlot_1"''
+[2018.02.20-00.47.09:004][388]LogEditorTransaction: Undo Remove Widget
+[2018.02.20-00.47.09:012][388]LogMaterial: Missing cached shader map for material M_m200_sniper, compiling. 
+[2018.02.20-00.47.15:199][717]MaterialEditorStats: Base pass shader: 108 instructions
+[2018.02.20-00.47.15:199][717]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 181 instructions
+[2018.02.20-00.47.15:199][717]MaterialEditorStats: Vertex shader: 31 instructions
+[2018.02.20-00.47.15:199][717]MaterialEditorStats: Texture samplers: 4/16
+[2018.02.20-00.47.15:199][717]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.02.20-00.48.34:251][441]BlueprintLog: New page: Compile PlayerHUD
+[2018.02.20-00.48.34:353][441]LogSavePackage: Save=18.17ms
+[2018.02.20-00.48.34:353][441]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/PlayerHUDB9BB5BB547057DF1B60BDB9AD3B33D82.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerHUD.uasset'
+[2018.02.20-00.48.34:358][441]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Blueprints/PlayerHUD.uasset
+[2018.02.20-00.48.35:881][517]LogSavePackage: Save=195.30ms
+[2018.02.20-00.48.35:881][517]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/ThirdPersonExampleMap569D659143B2189FCE799BAA99CC880B.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/ThirdPersonExampleMap.umap'
+[2018.02.20-00.48.35:886][517]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/ThirdPersonExampleMap.umap
+[2018.02.20-00.48.36:063][517]LogSavePackage: Save=125.12ms
+[2018.02.20-00.48.36:063][517]LogSavePackage: Moving '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Saved/ThirdPersonExampleMap_BuiltData87E09B3A46D661075D9D699651118179.tmp' to '../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.02.20-00.48.36:065][517]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/socce/Documents/Unreal Projects/DoDTPS/Content/GameBlueprints/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.02.20-00.48.36:511][544]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2018.02.20-00.48.36:531][544]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.48.36:532][544]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.02.20-00.48.36:532][544]PIE: New page: PIE session: ThirdPersonExampleMap (Feb 19, 2018, 8:48:36 AM)
+[2018.02.20-00.48.36:532][544]LogPlayLevel: Creating play world package: /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2018.02.20-00.48.36:548][544]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015883s)
+[2018.02.20-00.48.36:549][544]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.02.20-00.48.36:549][544]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2018.02.20-00.48.36:549][544]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.017020s)
+[2018.02.20-00.48.36:577][544]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.02.20-00.48.36:594][544]LogInit: FAudioDevice initialized.
+[2018.02.20-00.48.36:672][544]LogLoad: Game class is 'ThirdPersonGamemode_C'
+[2018.02.20-00.48.36:675][544]LogWorld: Bringing World /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2018.02.19-16.48.36
+[2018.02.20-00.48.36:675][544]LogWorld: Bringing up level for play took: 0.002476
+[2018.02.20-00.48.36:680][544]PIE: Play in editor start time for /Game/GameBlueprints/Maps/UEDPIE_0_ThirdPersonExampleMap -0.508
+[2018.02.20-00.48.36:680][544]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.48.42:445][886]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.48.42:503][886]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap' with GeneratedClass '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' with ClassGeneratedBy '/Game/GameBlueprints/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonExampleMap'
+[2018.02.20-00.49.06:158][288]LogEditorTransaction: Undo Edit Y
+[2018.02.20-00.49.06:318][288]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.155 s
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: === Handled ensure: ===
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: 
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: Ensure condition failed: !GIsTransacting [File:D:\Build\++UE4+Release-4.18+Compile\Sync\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h] [Line: 72]
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: 
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: Stack: 
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x00000000453A2786 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x000000004514123A UE4Editor-Core.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x000000004515B906 UE4Editor-Core.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x000000001BF90B7C UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x000000001BF3DE01 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x0000000037692643 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x00000000376934D9 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x00000000376D74B8 UE4Editor-PropertyEditor.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x0000000019346695 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x00000000193439EC UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x00000000193D01DB UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x00000000193D4FF7 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x00000000191C32D0 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x00000000191A50D1 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x0000000019127297 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.02.20-00.49.06:318][288]LogOutputDevice: Error: [Callstack] 0x000000001912D0F7 UE4Editor-DetailCustomizations.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x0000000044283675 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x0000000044098CAA UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x0000000044038824 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001AB5B4DC UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001AC066B2 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001ABA37D6 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001AB512E5 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001AC32619 UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001AC0016B UE4Editor-UMGEditor.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000002F750B8C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000002F75588C UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001D2ED4D7 UE4Editor-Engine.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001C2EB5FF UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000002F8BE721 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001BF3EA46 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001BF66112 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001BF4DCE9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001BF4E61B UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001BFB28FB UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001BFF5A0E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000002F750FC1 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000002F755D26 UE4Editor-Kismet.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x0000000044039636 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x00000000440783A0 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001C7ABE9E UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000001C797803 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x00000000440263A1 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x0000000043FF700E UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x0000000043FF8C16 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000004407988C UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000004406BEE8 UE4Editor-Slate.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000005CADE28A UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000005CAD1A48 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000005CAE03EC UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000005CACD5A9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x0000000085D3B85D USER32.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x0000000085D3B1EF USER32.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000005CAE1516 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000005C0F50C8 UE4Editor.exe!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000005C105430 UE4Editor.exe!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000005C1054AA UE4Editor.exe!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000005C112379 UE4Editor.exe!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000005C113D57 UE4Editor.exe!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x00000000855B1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: [Callstack] 0x000000008618EFC1 ntdll.dll!UnknownFunction []
+[2018.02.20-00.49.06:319][288]LogOutputDevice: Error: 
+[2018.02.20-00.49.06:321][288]LogStats:                SubmitErrorReport -  0.000 s
